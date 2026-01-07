@@ -39,7 +39,6 @@ sf = 200;
 etimep = -0.5 : 1/sf : 4.5;
 
 epochs_to_process = [1];
-areas_all = [3 11 16];
 d0s = [0.05, 0.20, 0.35, 0.50, 0.65, 0.80, 2.70, 2.85, 3.00, 3.15, 3.30, 3.45];
 d0 = arrayfun(@(x) find(abs(etimep - x) == min(abs(etimep - x)), 1), d0s);
 
