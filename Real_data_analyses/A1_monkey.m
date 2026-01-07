@@ -12,7 +12,6 @@ clc, clear, close all
 load('Data/A1_dataset_monkey.mat')
 load(['Data/selected_trials_windowSize_',num2str(delta),'.mat'])
 n_datasets = length(data_all_electrodes_all_sessions_all_noiselevels{1});
-%names_datasets = dir(data_all_electrodes_all_sessions_all_noiselevels);
 results_folder = fullfile('Results/Real_data_analysis');
 if ~isfolder(results_folder)
     mkdir(results_folder)
