@@ -1,6 +1,8 @@
 .DS_store
 Results/
 Real_data_analyses/Data/
+Figure_S12/panel_F/Sim_results/
+Figure_S12/pythonCode/Sim_results
 *.asv
 # Byte-compiled / optimized / DLL files
 __pycache__/
