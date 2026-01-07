@@ -385,7 +385,7 @@ if ~isfolder(['Results/', folder_name])
 end
 
 if ~isalphasweep & strcmp(info_amount, 'alpha_sweep')
-    save(['Results/', folder_name, '/', 'Simuldata_', char(simul_case), '_', char(info_amount), '_', char(opts_PID.redundancy_measure), '_', char(alpha_values), '.mat']);
+    save(['Results/', folder_name, '/', 'Simuldata_', char(simul_case), '_', char(info_amount), '_', char(opts_PID.redundancy_measure), '_', char(alpha), '.mat']);
 else
     save(['Results/', folder_name, '/', 'Simuldata_', char(simul_case), '_', char(info_amount), '_', char(opts_PID.redundancy_measure), '.mat']);
 end
