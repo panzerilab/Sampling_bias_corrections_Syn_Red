@@ -40,7 +40,7 @@ ResultFolder = 'Bin_sweep';
 categories = 2:9;
 simul_case = 'bit_of_all';
 info_amount = 'low';
-redundancy_measure = 'I_Broja';
+redundancy_measure = 'I_BROJA';
 isGauss = false;
 isUnion = false;
 
