@@ -4,9 +4,9 @@ This directory contains the code and data used for the analyses in our paper. Be
 
 ## Folder Structure
 
-- `Simulations_discrete.m`: MATLAB script for generating all discrete simulation datasets (except Figures 1, S12, and S13).
-- `Simulations_Gaussian.py`: Python script for generating all Gaussian simulation datasets (except Figures 1, S12).
-- `PlotFigures.m`: MATLAB script for plotting all simulation figures.
+- `Simulations_discrete.m`: MATLAB script for generating all discrete simulation datasets (except Figures 1, S12).
+- `Simulations_Gaussian.py`: Python script for generating all Gaussian simulation datasets (except Figures 1, S12, and S13).
+- `PlotFigures.m`: MATLAB script for plotting all simulation figures (and generating results for Figures 1 and S13).
 - `tools.py`: collection of Python functions used by the `Simulations_Gaussian.py` script.
 - `Figure_S12/`: Scripts to generate data and plots for Figure S12.
 - `Real_data_analyses/`: Raw data and scripts for real data preprocessing and analysis.
