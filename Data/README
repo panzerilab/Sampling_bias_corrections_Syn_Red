@@ -1,0 +1,63 @@
+A1 Monkey Spike Count Dataset
+=============================
+
+File
+----
+A1_dataset_monkey.mat
+
+
+Source and Reference
+---------------------
+The spike-count data were recorded from primary auditory cortex (A1) of a macaque monkey and originate from the experimental recordings described in:
+
+Kayser, C., Montemurro, M. A., Logothetis, N. K., & Panzeri, S. (2009). Spike-phase coding boosts and stabilizes information carried by spatial and temporal spike patterns. Neuron, 61(4), 597–608. Elsevier.
+
+
+Description
+-----------
+This dataset contains spike-counts from primary auditory cortex (A1) during repeated presentation of a naturalistic auditory stimulus, either in its original form or mixed with background noise at different levels.
+
+Neural responses are represented as spike counts computed in discrete temporal bins (delta = 50 ms) within each trial. The dataset includes multiple recording sessions and four noise conditions.
+
+
+Main Variable
+-------------
+data_all_electrodes_all_sessions_all_noiselevels
+
+Nested MATLAB cell array containing spike-count data across noise levels and recording sessions.
+
+
+Data Organisation
+-----------------
+The data are organised hierarchically as:
+
+Noise level
+ └── Recording session
+      └── Spike count array [nNeurons × nTrials × nTimeBins]
+
+MATLAB access pattern:
+data_all_electrodes_all_sessions_all_noiselevels{noise_level}{session}
+
+
+Noise Conditions
+----------------
+The outermost cell array indexes four noise conditions, in order:
+
+1. No noise – Original, unmodified stimulus.
+2. Low noise – Background noise mixed at 6 dB below the original sound.
+3. Medium noise – Background noise mixed at the same level as the original sound.
+4. High noise – Background noise mixed at 6 dB above the original sound.
+
+
+Dimensions
+----------
+Each recording session contains a 3D numeric array with dimensions:
+[nNeurons × nTrials × nTimeBins]
+
+
+Temporal Structure and Spike Counts
+-----------------------------------
+Stimulus duration per trial: 20 s
+Temporal bin width: 50 ms
+
+Spike counts represent the number of spikes observed in each 50 ms bin for a given neuron and trial.

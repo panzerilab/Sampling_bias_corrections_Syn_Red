@@ -1,0 +1,3191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="157mm"
+   height="170mm"
+   viewBox="0 0 157 170"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="Figure_S11.svg"
+   inkscape:export-filename="Figure_S11.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0819881"
+     inkscape:cx="426.99176"
+     inkscape:cy="492.6117"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <pattern
+       id="fillPattern26_"
+       x="1488"
+       y="168"
+       width="8"
+       height="788"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAgAAAMUCAYAAACB82b2AAAACXBIWXMAAAsTAAALEwEAmpwYAAABHUlEQVR4nO3YsW3FMAwE0CQzeAg1arT/bklFwDBs41ckAz1WAvSKK6667+M4fr9e7uftEwCSwRijPAMAxI0xyjMAQFz0sTIDsA04160qAwDEXftYkQEA4nHXx+wMwDbgqW6ZGQAgwFsfszIAwKfAuggkAuMh0AkYD4FOwLoIdALWRSARGA+BTsC6CHQC1kWgEVhrlWcAgLi1VnkGAIiLPlZmALYB57pVZQCAuGsfKzIAQDzu+pidAQACPPUxMwOwDXirW1YGAPgUWBeBTsC6CCQC4yHQCVgXgU7AuggkAuMh0AkYD4FOwLoI/Ccw5yzPAGwD5pzlGQAgLvpYmQEA4s59rMoAbAOudavIAADxuOtjdgYACPDUx8wMwC7gD0vWG/QiLKgTAAAAAElFTkSuQmCC"
+         x="0"
+         y="0"
+         width="8"
+         height="788"
+         id="image1" />
+    </pattern>
+    <pattern
+       id="pattern2"
+       x="1488"
+       y="168"
+       width="8"
+       height="788"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAgAAAMUCAYAAACB82b2AAAACXBIWXMAAAsTAAALEwEAmpwYAAABHUlEQVR4nO3YsW3FMAwE0CQzeAg1arT/bklFwDBs41ckAz1WAvSKK6667+M4fr9e7uftEwCSwRijPAMAxI0xyjMAQFz0sTIDsA04160qAwDEXftYkQEA4nHXx+wMwDbgqW6ZGQAgwFsfszIAwKfAuggkAuMh0AkYD4FOwLoIdALWRSARGA+BTsC6CHQC1kWgEVhrlWcAgLi1VnkGAIiLPlZmALYB57pVZQCAuGsfKzIAQDzu+pidAQACPPUxMwOwDXirW1YGAPgUWBeBTsC6CCQC4yHQCVgXgU7AuggkAuMh0AkYD4FOwLoI/Ccw5yzPAGwD5pzlGQAgLvpYmQEA4s59rMoAbAOudavIAADxuOtjdgYACPDUx8wMwC7gD0vWG/QiLKgTAAAAAElFTkSuQmCC"
+         x="0"
+         y="0"
+         width="8"
+         height="788"
+         id="image2" />
+    </pattern>
+    <pattern
+       id="fillPattern26_-9"
+       x="1488"
+       y="168"
+       width="8"
+       height="788"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAgAAAMUCAYAAACB82b2AAAACXBIWXMAAAsTAAALEwEAmpwYAAABHUlEQVR4nO3YsW3FMAwE0CQzeAg1arT/bklFwDBs41ckAz1WAvSKK6667+M4fr9e7uftEwCSwRijPAMAxI0xyjMAQFz0sTIDsA04160qAwDEXftYkQEA4nHXx+wMwDbgqW6ZGQAgwFsfszIAwKfAuggkAuMh0AkYD4FOwLoIdALWRSARGA+BTsC6CHQC1kWgEVhrlWcAgLi1VnkGAIiLPlZmALYB57pVZQCAuGsfKzIAQDzu+pidAQACPPUxMwOwDXirW1YGAPgUWBeBTsC6CCQC4yHQCVgXgU7AuggkAuMh0AkYD4FOwLoI/Ccw5yzPAGwD5pzlGQAgLvpYmQEA4s59rMoAbAOudavIAADxuOtjdgYACPDUx8wMwC7gD0vWG/QiLKgTAAAAAElFTkSuQmCC"
+         x="0"
+         y="0"
+         width="8"
+         height="788"
+         id="image1-8" />
+    </pattern>
+    <pattern
+       id="pattern2-6"
+       x="1488"
+       y="168"
+       width="8"
+       height="788"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAgAAAMUCAYAAACB82b2AAAACXBIWXMAAAsTAAALEwEAmpwYAAABHUlEQVR4nO3YsW3FMAwE0CQzeAg1arT/bklFwDBs41ckAz1WAvSKK6667+M4fr9e7uftEwCSwRijPAMAxI0xyjMAQFz0sTIDsA04160qAwDEXftYkQEA4nHXx+wMwDbgqW6ZGQAgwFsfszIAwKfAuggkAuMh0AkYD4FOwLoIdALWRSARGA+BTsC6CHQC1kWgEVhrlWcAgLi1VnkGAIiLPlZmALYB57pVZQCAuGsfKzIAQDzu+pidAQACPPUxMwOwDXirW1YGAPgUWBeBTsC6CCQC4yHQCVgXgU7AuggkAuMh0AkYD4FOwLoI/Ccw5yzPAGwD5pzlGQAgLvpYmQEA4s59rMoAbAOudavIAADxuOtjdgYACPDUx8wMwC7gD0vWG/QiLKgTAAAAAElFTkSuQmCC"
+         x="0"
+         y="0"
+         width="8"
+         height="788"
+         id="image2-5" />
+    </pattern>
+    <pattern
+       id="fillPattern30_"
+       x="999"
+       y="184"
+       width="8"
+       height="860"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAgAAANcCAYAAABi+O73AAAACXBIWXMAAAsTAAALEwEAmpwYAAABKklEQVR4nO3YsW3EMBBFQds1qAgmTNh/b+dIgCDoBAYLLrgYppzgBT/a3+M4Pj8v7+/tEwC2A6219AYAiAOttfQGAJgG52AzGwAgDlwXndUAANPgPtiMBgCIA0+LXt0AANPg22BXNgBAHHhb9KoGAAgDbsVALeBWDGwF3IqBWsCtGNgKuBUDtYBbMbAVcCsGagG3YqAUGGOkNwBAHBhjpDcAwDQ4B5vZAABx4LrorAYAmAb3wWY0AEAceFr06gYAmAbfBruyAQDiwNuiVzUAQBhwKwZqAbdiYCvgVgzUAm7FwFbArRioBdyKga2AWzFQC7gVA6VA7z29AQDiQO89vQEApsE52MwGAIgD10VnNQDANLgPNqMBAOLA06JXNwDANPg22JUNADAL/gG92RyED7riWAAAAABJRU5ErkJggg=="
+         x="0"
+         y="0"
+         width="8"
+         height="860"
+         id="image1-2" />
+    </pattern>
+    <pattern
+       id="pattern2-3"
+       x="999"
+       y="184"
+       width="8"
+       height="860"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAgAAANcCAYAAABi+O73AAAACXBIWXMAAAsTAAALEwEAmpwYAAABKklEQVR4nO3YsW3EMBBFQds1qAgmTNh/b+dIgCDoBAYLLrgYppzgBT/a3+M4Pj8v7+/tEwC2A6219AYAiAOttfQGAJgG52AzGwAgDlwXndUAANPgPtiMBgCIA0+LXt0AANPg22BXNgBAHHhb9KoGAAgDbsVALeBWDGwF3IqBWsCtGNgKuBUDtYBbMbAVcCsGagG3YqAUGGOkNwBAHBhjpDcAwDQ4B5vZAABx4LrorAYAmAb3wWY0AEAceFr06gYAmAbfBruyAQDiwNuiVzUAQBhwKwZqAbdiYCvgVgzUAm7FwFbArRioBdyKga2AWzFQC7gVA6VA7z29AQDiQO89vQEApsE52MwGAIgD10VnNQDANLgPNqMBAOLA06JXNwDANPg22JUNADAL/gG92RyED7riWAAAAABJRU5ErkJggg=="
+         x="0"
+         y="0"
+         width="8"
+         height="860"
+         id="image2-8" />
+    </pattern>
+    <pattern
+       id="fillPattern31_"
+       x="458"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADyUlEQVRIid2WzUt6exCHn+PLKSVfyrBVRJnQTzDohSxrEyZtWrZrk6voLwqiZZt2UVBJhrTICiqwRLpBoLao6EWPL0R58txF6NWysugS935WHmfOPDPzne9wBEVR/uIXpPoN6K+CNd95KRgM4vf7ARgfH2d0dPRDf0VREATh++B8Ps/R0RHhcJhUKgVAOBxGr9czMDDAxcUF4XAYWZbJ5/OYzWZGRkbQ6/VvYtUMzufznJ+f4/f7ubu7w2w2AxCLxchms1itVhKJBPv7+yQSCe7u7mhvb6e3t7cquOYzPjw8ZGlpiVgshsPhwOfzMT09TXd3N5eXlywuLiKKIjMzM3R0dKDT6dBo3q/r04rz+TwHBweEQiEkSWJ4eBiXy4XdbkdRFNRqNTqdjoODA46OjhAEgfHxcfR6PdfX198DF9sbCARIp9P8+fOHiYkJWlpaSj52ux2r1Uoul+P09JRUKoXP5+Ph4YFoNIpWq60aW/hogezu7hIIBEgmk7jdbsbGxjAYDKjV6go/RVFIp9Nsbm4SCoWwWCy43W5cLlfV83234mJ7d3Z2kCSpFKQ4UG+yFwRMJhMulwuAvb09jo+PMRqN2O12jEbj5+Dy9kqSRFdXF16vF5PJ9F5jSmptbcVoNJJKpTg7O2N1dRWPx4PD4cBisVQm+7rVr9vr9XoxGAyoVLVdgEKhQCaTYWtri+3tbRRFwePx4PF4aGhoqF5xMBgkHA6TyWTweDz09fXVVGm5VCoVJpMJt9tNfX09oVCIaDRKNptlamrqH7/yl9bW1ri9vaWzsxOHw0Fzc/OXoOVqamrC6XQyNDREoVAgGAxWJlj+8PT0VJrehYUF1tfXvw3e2Nhgfn6e/v5+xsbGsNlsFfaKVk9MTNDT04NGo+Hq6or7+/uSrdqif61yn2QyyeXlJTqdDqfT+WaLVTx5vV4Abm5uqK+vRxTFkk0QBAqFApIkIctyZRCNBpPJVDGAoihSV1fH4+MjRqORvr6+98GfSZIk5ubmiMfjpSXy/PxMW1sbs7OzNDY21hzrS2BZlonH4xgMBgYHB4GXZRGPx9904UfBAGq1GpfLxeTkJPByrq8nthZ9+dNHEISK6mRZ/nTofgT8U/oSuDi1iqKU/iv+rnWlfgpWFOXN3RNFsWpbBUGouHrwcsXKE3ytqsNVDBSJRNDr9ciyjEajIZVKkcvlKiCiKJLL5VhZWcFsNpd8I5HIu4l+CNZqtZycnBCNRhEEoZR90VaUVqsll8uxvLxcsiuKwvPzMzab7V3wh18g/6b+G1P9vwD/Dd6tlkfcYaH0AAAAAElFTkSuQmCC"
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image3" />
+    </pattern>
+    <pattern
+       id="pattern4"
+       x="458"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADyUlEQVRIid2WzUt6exCHn+PLKSVfyrBVRJnQTzDohSxrEyZtWrZrk6voLwqiZZt2UVBJhrTICiqwRLpBoLao6EWPL0R58txF6NWysugS935WHmfOPDPzne9wBEVR/uIXpPoN6K+CNd95KRgM4vf7ARgfH2d0dPRDf0VREATh++B8Ps/R0RHhcJhUKgVAOBxGr9czMDDAxcUF4XAYWZbJ5/OYzWZGRkbQ6/VvYtUMzufznJ+f4/f7ubu7w2w2AxCLxchms1itVhKJBPv7+yQSCe7u7mhvb6e3t7cquOYzPjw8ZGlpiVgshsPhwOfzMT09TXd3N5eXlywuLiKKIjMzM3R0dKDT6dBo3q/r04rz+TwHBweEQiEkSWJ4eBiXy4XdbkdRFNRqNTqdjoODA46OjhAEgfHxcfR6PdfX198DF9sbCARIp9P8+fOHiYkJWlpaSj52ux2r1Uoul+P09JRUKoXP5+Ph4YFoNIpWq60aW/hogezu7hIIBEgmk7jdbsbGxjAYDKjV6go/RVFIp9Nsbm4SCoWwWCy43W5cLlfV83234mJ7d3Z2kCSpFKQ4UG+yFwRMJhMulwuAvb09jo+PMRqN2O12jEbj5+Dy9kqSRFdXF16vF5PJ9F5jSmptbcVoNJJKpTg7O2N1dRWPx4PD4cBisVQm+7rVr9vr9XoxGAyoVLVdgEKhQCaTYWtri+3tbRRFwePx4PF4aGhoqF5xMBgkHA6TyWTweDz09fXVVGm5VCoVJpMJt9tNfX09oVCIaDRKNptlamrqH7/yl9bW1ri9vaWzsxOHw0Fzc/OXoOVqamrC6XQyNDREoVAgGAxWJlj+8PT0VJrehYUF1tfXvw3e2Nhgfn6e/v5+xsbGsNlsFfaKVk9MTNDT04NGo+Hq6or7+/uSrdqif61yn2QyyeXlJTqdDqfT+WaLVTx5vV4Abm5uqK+vRxTFkk0QBAqFApIkIctyZRCNBpPJVDGAoihSV1fH4+MjRqORvr6+98GfSZIk5ubmiMfjpSXy/PxMW1sbs7OzNDY21hzrS2BZlonH4xgMBgYHB4GXZRGPx9904UfBAGq1GpfLxeTkJPByrq8nthZ9+dNHEISK6mRZ/nTofgT8U/oSuDi1iqKU/iv+rnWlfgpWFOXN3RNFsWpbBUGouHrwcsXKE3ytqsNVDBSJRNDr9ciyjEajIZVKkcvlKiCiKJLL5VhZWcFsNpd8I5HIu4l+CNZqtZycnBCNRhEEoZR90VaUVqsll8uxvLxcsiuKwvPzMzab7V3wh18g/6b+G1P9vwD/Dd6tlkfcYaH0AAAAAElFTkSuQmCC"
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image4" />
+    </pattern>
+    <pattern
+       id="fillPattern32_"
+       x="428"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAES0lEQVRIie2XW08aWxiGn9EZGZCpgBhCRjxGDOKhtk0MNvEU/RH+iH3Rf9D/4q29NcEbNcGLhtQDaJsNqUAJJ6OkchDkNPtiR6LRIm3TmOzs925mvjXP9631zrfWCJqm/c0zqOM5oM8KFls9jMfj+Hw+gsEgqVSKYrEIgKZpSJKEyWRibGyM169fs7Cw8FNg4bE1rlarHB0dEQgESCQSyLKM0WhEURQURaFSqZDL5SgUChQKBbq6unC73bx8+RJVVX+t4mq1ytevX/F6vaTTaaxWK+Pj4zidTvr7+1EUBYBkMkk0GuX4+JhwOEwikaBcLrO6usqLFy8QBOHnKvb7/Xi9XrLZLB6Ph+XlZQwGA5IkIYpi84X1ep1arUa1WiUWi/Hhwwfy+Twul4v19XX0en1L8D1zxeNxAoEA6XQaj8eDx+PBarU2wXer6OzsRKfTYTQaGR8fZ21tDbPZzMnJCcFgsOmHtsA+n49EIoHVamV5eZn+/v6Wg28liiIej4fp6WlqtRqfPn0iGo22Dw4Gg8iyzOzsLAaDoS3oXQ0NDTExMUEsFiOVSrUPTqVSGI1GnE4nkiT9NNhmszEyMkIulyOXy7WMvefqYrGIoig4HA4kSaJUKpHP51s6VNM0RFHEbDbT29uLqqrU63Vubm7aBwMoioLRaARgZ2eHzc1NdDodHR2PN7lSqYSqqrx79w6LxUJfXx+i2LIvPQRrmkalUmleDwwMsLi4+MDRd1WpVDCZTMiy3EykXq+jaVr7YEmSyOVyJJNJbDYbk5OTTE5OPpn9rQqFAqlUqjn9rXRv/kwmE/l8nmg0Sq1Waxt4q2w2y7dv39DpdM0ZaAvsdrspl8scHR092QAeUywWIxQKMTo6+mQPuAeem5tDr9cTDoc5Ozvj+vq6LWCtViOZTHJ6ekomk2FmZobh4eH2wW/evGFsbIxGo8HW1hZ+v59Go/Ek+Pz8nI2NDT5+/EhPTw9TU1OYzeaWYzrfv3//190bBoMBURSJRCKk02my2WxzvUVRbJrm+/fvpNNpAoEA+/v7fPnyhXw+jyzL9PX10dvbS1dX1w/BD6x3u/VdXV3x+fNnfD4fFxcXqKqKzWbD4XBQKBSIx+Ocn58TDofJZDIMDAxgs9m4vr5md3eXRqPB/Pz8D9396EFA0zRKpRKRSITT01NCoRCZTIZyuYwkSdTrdeDfr2BwcBCXy8XU1BTFYpGDgwO8Xi8Wi4WlpSVWVlYehT+ajiAIGAwGnE4n3d3d2O12Li8vKZfLzTWXJAlFUbDb7TgcDiwWC1arFU3TyGQyhEIh9vb2kGWZmZkZenp6nq74d9RoNIhEImxvb3N4eIiqqqyurvL27dt7cQ/M9bsSBAGz2YzJZEIURQKBANVqFZ1Oh91ub8Y93c1/ET48PIwgCBSLRS4vL9ne3ubVq1fNmD92rhZFkdHRURYXF9Hr9fj9/vvJ/f8L858H/wOZrMuLRY+8qAAAAABJRU5ErkJggg=="
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image5" />
+    </pattern>
+    <pattern
+       id="pattern6"
+       x="428"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAES0lEQVRIie2XW08aWxiGn9EZGZCpgBhCRjxGDOKhtk0MNvEU/RH+iH3Rf9D/4q29NcEbNcGLhtQDaJsNqUAJJ6OkchDkNPtiR6LRIm3TmOzs925mvjXP9631zrfWCJqm/c0zqOM5oM8KFls9jMfj+Hw+gsEgqVSKYrEIgKZpSJKEyWRibGyM169fs7Cw8FNg4bE1rlarHB0dEQgESCQSyLKM0WhEURQURaFSqZDL5SgUChQKBbq6unC73bx8+RJVVX+t4mq1ytevX/F6vaTTaaxWK+Pj4zidTvr7+1EUBYBkMkk0GuX4+JhwOEwikaBcLrO6usqLFy8QBOHnKvb7/Xi9XrLZLB6Ph+XlZQwGA5IkIYpi84X1ep1arUa1WiUWi/Hhwwfy+Twul4v19XX0en1L8D1zxeNxAoEA6XQaj8eDx+PBarU2wXer6OzsRKfTYTQaGR8fZ21tDbPZzMnJCcFgsOmHtsA+n49EIoHVamV5eZn+/v6Wg28liiIej4fp6WlqtRqfPn0iGo22Dw4Gg8iyzOzsLAaDoS3oXQ0NDTExMUEsFiOVSrUPTqVSGI1GnE4nkiT9NNhmszEyMkIulyOXy7WMvefqYrGIoig4HA4kSaJUKpHP51s6VNM0RFHEbDbT29uLqqrU63Vubm7aBwMoioLRaARgZ2eHzc1NdDodHR2PN7lSqYSqqrx79w6LxUJfXx+i2LIvPQRrmkalUmleDwwMsLi4+MDRd1WpVDCZTMiy3EykXq+jaVr7YEmSyOVyJJNJbDYbk5OTTE5OPpn9rQqFAqlUqjn9rXRv/kwmE/l8nmg0Sq1Waxt4q2w2y7dv39DpdM0ZaAvsdrspl8scHR092QAeUywWIxQKMTo6+mQPuAeem5tDr9cTDoc5Ozvj+vq6LWCtViOZTHJ6ekomk2FmZobh4eH2wW/evGFsbIxGo8HW1hZ+v59Go/Ek+Pz8nI2NDT5+/EhPTw9TU1OYzeaWYzrfv3//190bBoMBURSJRCKk02my2WxzvUVRbJrm+/fvpNNpAoEA+/v7fPnyhXw+jyzL9PX10dvbS1dX1w/BD6x3u/VdXV3x+fNnfD4fFxcXqKqKzWbD4XBQKBSIx+Ocn58TDofJZDIMDAxgs9m4vr5md3eXRqPB/Pz8D9396EFA0zRKpRKRSITT01NCoRCZTIZyuYwkSdTrdeDfr2BwcBCXy8XU1BTFYpGDgwO8Xi8Wi4WlpSVWVlYehT+ajiAIGAwGnE4n3d3d2O12Li8vKZfLzTWXJAlFUbDb7TgcDiwWC1arFU3TyGQyhEIh9vb2kGWZmZkZenp6nq74d9RoNIhEImxvb3N4eIiqqqyurvL27dt7cQ/M9bsSBAGz2YzJZEIURQKBANVqFZ1Oh91ub8Y93c1/ET48PIwgCBSLRS4vL9ne3ubVq1fNmD92rhZFkdHRURYXF9Hr9fj9/vvJ/f8L858H/wOZrMuLRY+8qAAAAABJRU5ErkJggg=="
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image6" />
+    </pattern>
+    <pattern
+       id="fillPattern33_"
+       x="398"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEx0lEQVRIie2XW28SWxTHf2NnuMkoQ2kITqnWRppaar0lBo3WmvoRfPBD+NBv4Hfxtb42oS9qgkmTplKhVQ9EAQmXaSzGGSg4zDDnwUjkUGvVnJicnPU2e/+zf2vtdckewXGcv/gDduxPQP8oWDxss1wuk0qlyGaz1Go1Wq0WAI7jIEkSgUCAc+fOceXKFW7duvVTYOGgHHe7Xba2tshkMlQqFTweD36/H1mWkWUZ0zTRdZ1ms0mz2cTlcjE7O8vFixdRVfXXIu52u7x9+5ZkMkm9XicUCjE9PU0sFiMajeL3+wGoVqsUi0VevnxJPp+nUqnQ6XRYWlrixIkTCILwcxFvbGyQTCZpNBokEgkWFxfx+XxIkoQkSX2dZVnYtk2326VUKvH48WMMw2BmZob79+/j9XoPBQ8UV7lcJpPJUK/XSSQSJBIJQqFQH9xut1ldXWV7extRFHG73fj9fqanp7l79y6KorC9vU02m+3Xw5HAqVSKSqVCKBRicXGR8fHxAbFhGKysrLC5uTmwLooiiUSCCxcuYFkWm5ubFIvFo4Oz2Swej4dLly7h8/mGxIIg4Ha7B678Wztz5gznz5+nVCpRq9WODq7Vavj9fmKx2IGHe71eRkZGvgsOh8OcPXsWXdfRdf1Q8EBVt1otZFkmGo32c2oYBoIg4PV6qVQq9Ho9dF3HMAxM08S2bURRRFEURkdHUVUV27b5/Pnz0cEAsiz3W+bJkyesrKzgdrsZGRmh1+vR6XRYX18nnU7jOA7tdhtVVVleXiYYDDI2NoYoHjqXhsGO42CaZv97YmKChYWFfivpus76+jqnTp0iHo9jWRamaRIIBPB4PAC0221s28ZxnKODvx5erVYJh8PE43Hi8Xh/3zAM0uk08Xice/fuDR3WbDap1Wo4jvPDqAeKKxAIYBgGxWIRy7KGxKZp4jjOgXsAjUaD9+/f43a7+zdwJPDs7CydToetra0DB4Bt27Tb7YF0fGulUolcLsfU1NTQDDgUfO3aNbxeL/l8nnfv3rG/vz8gFkURVVVRFGVg3bIsqtUqOzs7aJrG/Pw8k5OTh4IHEnH16lU0TaNQKLC6ukqr1eLmzZscO/bFP0VRWF5eHrrG3d1dHj16xJs3b1BVlbm5uSHn/mkjDx8+fPDtgs/nQxRFCoUC9XqdRqOBZVk4joPL5UKWZSRJ4uPHj2iaRiaT4fnz57x+/RrDMPB4PIyNjTE6OorL5TpaxADj4+PIssynT5949eoVqVSKDx8+oKoq4XCYaDRKs9mkXC6zu7tLPp9H0zQmJiYIh8Ps7+/z9OlTer0e169f/251H/gQ+DoYCoUCOzs75HI5NE2j0+kgSRK2bQNfuuD06dPMzMwwNzdHq9XixYsXJJNJgsEgt2/f5s6dOwfCD3RHEAR8Ph+xWIzjx48TiUTY29uj0+nQ6/WALz0vyzKRSIRoNEowGCQUCuE4DpqmkcvlePbsGR6Ph/n5eU6ePPnjiH/Her0ehUKBtbU10uk0qqqytLTEjRs3BnRDxfW7JggCiqIQCAQQRZFMJkO328XtdhOJRPq6H0/zX4RPTk4iCAKtVou9vT3W1ta4fPlyX/OvvatFUWRqaoqFhQW8Xi8bGxuDzv3/C/OfB/8NtYMeDSj+ey4AAAAASUVORK5CYII="
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image7" />
+    </pattern>
+    <pattern
+       id="pattern8"
+       x="398"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEx0lEQVRIie2XW28SWxTHf2NnuMkoQ2kITqnWRppaar0lBo3WmvoRfPBD+NBv4Hfxtb42oS9qgkmTplKhVQ9EAQmXaSzGGSg4zDDnwUjkUGvVnJicnPU2e/+zf2vtdckewXGcv/gDduxPQP8oWDxss1wuk0qlyGaz1Go1Wq0WAI7jIEkSgUCAc+fOceXKFW7duvVTYOGgHHe7Xba2tshkMlQqFTweD36/H1mWkWUZ0zTRdZ1ms0mz2cTlcjE7O8vFixdRVfXXIu52u7x9+5ZkMkm9XicUCjE9PU0sFiMajeL3+wGoVqsUi0VevnxJPp+nUqnQ6XRYWlrixIkTCILwcxFvbGyQTCZpNBokEgkWFxfx+XxIkoQkSX2dZVnYtk2326VUKvH48WMMw2BmZob79+/j9XoPBQ8UV7lcJpPJUK/XSSQSJBIJQqFQH9xut1ldXWV7extRFHG73fj9fqanp7l79y6KorC9vU02m+3Xw5HAqVSKSqVCKBRicXGR8fHxAbFhGKysrLC5uTmwLooiiUSCCxcuYFkWm5ubFIvFo4Oz2Swej4dLly7h8/mGxIIg4Ha7B678Wztz5gznz5+nVCpRq9WODq7Vavj9fmKx2IGHe71eRkZGvgsOh8OcPXsWXdfRdf1Q8EBVt1otZFkmGo32c2oYBoIg4PV6qVQq9Ho9dF3HMAxM08S2bURRRFEURkdHUVUV27b5/Pnz0cEAsiz3W+bJkyesrKzgdrsZGRmh1+vR6XRYX18nnU7jOA7tdhtVVVleXiYYDDI2NoYoHjqXhsGO42CaZv97YmKChYWFfivpus76+jqnTp0iHo9jWRamaRIIBPB4PAC0221s28ZxnKODvx5erVYJh8PE43Hi8Xh/3zAM0uk08Xice/fuDR3WbDap1Wo4jvPDqAeKKxAIYBgGxWIRy7KGxKZp4jjOgXsAjUaD9+/f43a7+zdwJPDs7CydToetra0DB4Bt27Tb7YF0fGulUolcLsfU1NTQDDgUfO3aNbxeL/l8nnfv3rG/vz8gFkURVVVRFGVg3bIsqtUqOzs7aJrG/Pw8k5OTh4IHEnH16lU0TaNQKLC6ukqr1eLmzZscO/bFP0VRWF5eHrrG3d1dHj16xJs3b1BVlbm5uSHn/mkjDx8+fPDtgs/nQxRFCoUC9XqdRqOBZVk4joPL5UKWZSRJ4uPHj2iaRiaT4fnz57x+/RrDMPB4PIyNjTE6OorL5TpaxADj4+PIssynT5949eoVqVSKDx8+oKoq4XCYaDRKs9mkXC6zu7tLPp9H0zQmJiYIh8Ps7+/z9OlTer0e169f/251H/gQ+DoYCoUCOzs75HI5NE2j0+kgSRK2bQNfuuD06dPMzMwwNzdHq9XixYsXJJNJgsEgt2/f5s6dOwfCD3RHEAR8Ph+xWIzjx48TiUTY29uj0+nQ6/WALz0vyzKRSIRoNEowGCQUCuE4DpqmkcvlePbsGR6Ph/n5eU6ePPnjiH/Her0ehUKBtbU10uk0qqqytLTEjRs3BnRDxfW7JggCiqIQCAQQRZFMJkO328XtdhOJRPq6H0/zX4RPTk4iCAKtVou9vT3W1ta4fPlyX/OvvatFUWRqaoqFhQW8Xi8bGxuDzv3/C/OfB/8NtYMeDSj+ey4AAAAASUVORK5CYII="
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image8" />
+    </pattern>
+    <pattern
+       id="fillPattern34_"
+       x="368"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFIUlEQVRIieWXTW8SXRTHfwNTYGB4h4K2Uy2lbSiGBKqAJsaFNX4Bl348v4ALd8aYNppIGtNNa1q1EV+gtJUZ3qfMMPMsjORp+iJdPHHxnGQ2c2fu755z7vmfewXbtnf5C+b4G9C/ChYn/dAwDAzDwOVy8eLFC54/f46u67hcLpaXl3n69CmKokwMFi7Lcb/fp16vs729jaqqOJ1OQqEQOzs77O7uoigKnU4Hy7K4f/8+breb4XBIJBIhlUpdupBLPT4+PmZzc5OXL1/SbreRZRmPx8PJyQmBQIByucz+/j6bm5u8efOGXq/HYDAgFovx+PFjkskkoigiCMKZuS/N8cHBAZ8+fcLr9VIoFCiXy4xGI0RRZHFxkXK5TD6fJ5FI0Gw2CQaDrKysoGkaP378QNM0er3e1T0eDAYMBgPi8Tirq6vE43G2trYYDodIkkQgEMDn8+HxePD7/eTzeebn56lWq+zu7iKKIqZpEo/HmZ6eplgsTgaemprC5/Ph9XqZm5tDURT8fj/NZhPTNDEMg+FwiCAIJBIJbt26RTqdRpZlvnz5wtHREaZpEgqFCIfDp8CXhjocDpNIJNA0DVVVcTgczMzMEA6HsSwLANu2EQQBr9cLQK/Xw7IsLMtCkiRKpRLRaJRqtXpq7jNg27YZDocARKPRcf40TcPlcnHt2jUCgQC2bY8fQRDw+/2Ypsnx8TGGYXD9+nUKhQLZbJZAIEC32z3FORVqXddpNBqoqkokEsE0TURRpNvt0m63GY1GxONxarUao9Fo/J/T6SQQCGBZFqqqcnJywvLyMqVSCdu2kSRpHJFzwa9fvx7XqNfrRVEUJEnCsiza7TYHBwcEg0G8Xi/dbnfsrSiK+Hw+XC4Xuq4zHA7x+/3EYjF2dnYAmJ+fvxhcqVRwuVysrKzgdrtRVZVqtYphGHQ6HX7+/EkymWR1dZVWq4XT6URRFB48eEA8HkeWZdxuN8VikWw2i8/nQ1VVTNMkGo1eDO52uywuLpLL5VAUhUqlQq1Ww+Fw0O/36Xa7ZLNZEokEvV4PURRJJpMkk8nxHJIk8fDhQ5LJJIIg0Gw2GQ6HhEKhU+BTm2ttbQ1d11lfX8ftdrO2tsaTJ08IBoOYpolt24xGIwRBwOfz4XCcLQqfz8fNmzfx+/0YhsHR0RGGYRAMBi8G37lzh2g0Sq1WY2Njg16vR6FQIJ/Pk06nCYfDY/k7TwZ/v5+amgJ+Vci/y/DCUIfDYRYWFtjb2+PVq1d4PB4ePXpEqVTC6XQSi8VwOp3nAs8zXdfp9XpIknSmYZxRrkwmw8nJCc+ePWNra4uZmRlSqRRerxfLsiYGDwYDvn//jmEYyLLM9PT0qfEzSQoEAiwtLZHJZGi1Wrx79w5BEBAE4Ure9vt9Wq0WgiAgSRKieNrHcyUzEolw7949ZFlme3ubb9++jSVyUtN1nW63i8fjQZKkM+Pngl0uF7lcjnQ6jWmarK+v8/HjxyuBO50OmqYRDoeRZXkyMPyqx0wmw9LSEh8+fGBvbw/bticGN5tN6vU6iUSCSCQyORgglUpx+/ZtBoMB+/v7Vwr54eEhjUaD2dlZ4vH41cCyLJNOp1lYWODw8JCNjY2JwJqmUa/X0XWdGzdunAv+4ykzFApx9+5d3r59y/v373E6neMW+LtJwC+xcDgcmKaJpmk0Gg3m5uZIJBJjQbkSWBRFcrkcnz9/plKp8PXrV+Bi5fq9iNnZWYrF4rkbC/5wvP0v7f93hflr4H8AMCwlclaS7coAAAAASUVORK5CYII="
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image9" />
+    </pattern>
+    <pattern
+       id="pattern10"
+       x="368"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFIUlEQVRIieWXTW8SXRTHfwNTYGB4h4K2Uy2lbSiGBKqAJsaFNX4Bl348v4ALd8aYNppIGtNNa1q1EV+gtJUZ3qfMMPMsjORp+iJdPHHxnGQ2c2fu755z7vmfewXbtnf5C+b4G9C/ChYn/dAwDAzDwOVy8eLFC54/f46u67hcLpaXl3n69CmKokwMFi7Lcb/fp16vs729jaqqOJ1OQqEQOzs77O7uoigKnU4Hy7K4f/8+breb4XBIJBIhlUpdupBLPT4+PmZzc5OXL1/SbreRZRmPx8PJyQmBQIByucz+/j6bm5u8efOGXq/HYDAgFovx+PFjkskkoigiCMKZuS/N8cHBAZ8+fcLr9VIoFCiXy4xGI0RRZHFxkXK5TD6fJ5FI0Gw2CQaDrKysoGkaP378QNM0er3e1T0eDAYMBgPi8Tirq6vE43G2trYYDodIkkQgEMDn8+HxePD7/eTzeebn56lWq+zu7iKKIqZpEo/HmZ6eplgsTgaemprC5/Ph9XqZm5tDURT8fj/NZhPTNDEMg+FwiCAIJBIJbt26RTqdRpZlvnz5wtHREaZpEgqFCIfDp8CXhjocDpNIJNA0DVVVcTgczMzMEA6HsSwLANu2EQQBr9cLQK/Xw7IsLMtCkiRKpRLRaJRqtXpq7jNg27YZDocARKPRcf40TcPlcnHt2jUCgQC2bY8fQRDw+/2Ypsnx8TGGYXD9+nUKhQLZbJZAIEC32z3FORVqXddpNBqoqkokEsE0TURRpNvt0m63GY1GxONxarUao9Fo/J/T6SQQCGBZFqqqcnJywvLyMqVSCdu2kSRpHJFzwa9fvx7XqNfrRVEUJEnCsiza7TYHBwcEg0G8Xi/dbnfsrSiK+Hw+XC4Xuq4zHA7x+/3EYjF2dnYAmJ+fvxhcqVRwuVysrKzgdrtRVZVqtYphGHQ6HX7+/EkymWR1dZVWq4XT6URRFB48eEA8HkeWZdxuN8VikWw2i8/nQ1VVTNMkGo1eDO52uywuLpLL5VAUhUqlQq1Ww+Fw0O/36Xa7ZLNZEokEvV4PURRJJpMkk8nxHJIk8fDhQ5LJJIIg0Gw2GQ6HhEKhU+BTm2ttbQ1d11lfX8ftdrO2tsaTJ08IBoOYpolt24xGIwRBwOfz4XCcLQqfz8fNmzfx+/0YhsHR0RGGYRAMBi8G37lzh2g0Sq1WY2Njg16vR6FQIJ/Pk06nCYfDY/k7TwZ/v5+amgJ+Vci/y/DCUIfDYRYWFtjb2+PVq1d4PB4ePXpEqVTC6XQSi8VwOp3nAs8zXdfp9XpIknSmYZxRrkwmw8nJCc+ePWNra4uZmRlSqRRerxfLsiYGDwYDvn//jmEYyLLM9PT0qfEzSQoEAiwtLZHJZGi1Wrx79w5BEBAE4Ure9vt9Wq0WgiAgSRKieNrHcyUzEolw7949ZFlme3ubb9++jSVyUtN1nW63i8fjQZKkM+Pngl0uF7lcjnQ6jWmarK+v8/HjxyuBO50OmqYRDoeRZXkyMPyqx0wmw9LSEh8+fGBvbw/bticGN5tN6vU6iUSCSCQyORgglUpx+/ZtBoMB+/v7Vwr54eEhjUaD2dlZ4vH41cCyLJNOp1lYWODw8JCNjY2JwJqmUa/X0XWdGzdunAv+4ykzFApx9+5d3r59y/v373E6neMW+LtJwC+xcDgcmKaJpmk0Gg3m5uZIJBJjQbkSWBRFcrkcnz9/plKp8PXrV+Bi5fq9iNnZWYrF4rkbC/5wvP0v7f93hflr4H8AMCwlclaS7coAAAAASUVORK5CYII="
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image10" />
+    </pattern>
+    <pattern
+       id="fillPattern35_"
+       x="338"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAACA0lEQVRIie2XvarqQBSF1+gk0SCoYGuwszEggoI2YmVh6Uv5FHkDH0AQgoVgEURNEE5hk8YqoCKCGmZuZS7BJMZ7vAqHs6rMTDLf7D1rfkI451/4gBKfgH4UTIMqHcfBYDDAZrNBMpkEIeSfAZxziKIISZKgaVo0mHOO6/UKVVXRaDTgum5op7dBhT1TSmFZFlarle/bUPDlckGlUkGv13s2yEAZhuErh84xISQ00mfluu7ddP1sV3PO44G/4+K4CgUzxsAYewkkKJA7V7uui+12C0IIKP3bfDqdcDweY2WDc45MJgNZlr3yQ7BhGBiPxxAEAblczqvXdR3D4RCSJCGRCLcGYwzn8xn9fj9yKfrAuq5jsVjAcRy0Wi2Uy2WvTVEUtNttCIIQGfVt81EUxat7mOrRaITdbod8Po9ms+n7WFVVqKoaCoxSbFe/Q76Iu90ulsslbNvGbDYDYwylUgkAYJom5vN57FTXajUvQw9T3el0kEqlcDgcMJ1Okc1mPbBt25hMJrHNVSgUPHAsV1erVVBKoWka9vu9b1D1ev2p5RSlO3A6nUaxWAQA3yEhy7K3Lp9V0GADc0YpjUzns4rt6tuL/3PPfstyip3qdygUzDn3HRLfEaX0bp4DeyaEQBRFWJYFWZZfctkTRTEeWBAEmKaJ9Xr9suutj/H7C/PjwX8Ak0XhffiUWWMAAAAASUVORK5CYII="
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image11" />
+    </pattern>
+    <pattern
+       id="pattern12"
+       x="338"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAACA0lEQVRIie2XvarqQBSF1+gk0SCoYGuwszEggoI2YmVh6Uv5FHkDH0AQgoVgEURNEE5hk8YqoCKCGmZuZS7BJMZ7vAqHs6rMTDLf7D1rfkI451/4gBKfgH4UTIMqHcfBYDDAZrNBMpkEIeSfAZxziKIISZKgaVo0mHOO6/UKVVXRaDTgum5op7dBhT1TSmFZFlarle/bUPDlckGlUkGv13s2yEAZhuErh84xISQ00mfluu7ddP1sV3PO44G/4+K4CgUzxsAYewkkKJA7V7uui+12C0IIKP3bfDqdcDweY2WDc45MJgNZlr3yQ7BhGBiPxxAEAblczqvXdR3D4RCSJCGRCLcGYwzn8xn9fj9yKfrAuq5jsVjAcRy0Wi2Uy2WvTVEUtNttCIIQGfVt81EUxat7mOrRaITdbod8Po9ms+n7WFVVqKoaCoxSbFe/Q76Iu90ulsslbNvGbDYDYwylUgkAYJom5vN57FTXajUvQw9T3el0kEqlcDgcMJ1Okc1mPbBt25hMJrHNVSgUPHAsV1erVVBKoWka9vu9b1D1ev2p5RSlO3A6nUaxWAQA3yEhy7K3Lp9V0GADc0YpjUzns4rt6tuL/3PPfstyip3qdygUzDn3HRLfEaX0bp4DeyaEQBRFWJYFWZZfctkTRTEeWBAEmKaJ9Xr9suutj/H7C/PjwX8Ak0XhffiUWWMAAAAASUVORK5CYII="
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image12" />
+    </pattern>
+    <pattern
+       id="fillPattern36_"
+       x="308"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADS0lEQVRIie2XW0s6WxTAf3tGJU0yu4AFlhEFiT4FvfQS9FZQH6Av1OcR6kklgi4Q3SACKzOT0HDGMS8zeZmZ83A4cjzZ/f8/weEsGGbPXmvxW2vvtddmhG3bKX5ApJ+A/ijY8VVHVVXZ3NwknU4jyzJCCGzbBkAIwcbGBuvr678ebNs2rVaLaDTKwsIC7XYbh8NBuVwmHo/TarXe9P8WuNlsEolEWF1d7cxXq1UODg5oNptv+n9rj4UQtNvtrrlms9lZ8t8G7iWWZXWC+lfBH5UvgyXpT9fXlvW3ZazrOqZp9tTZtk2j0fj14HK5zO3tLbZt43Q6u3RCCFwuF6qqkslkXhTft8BnZ2dsb2/jcrnw+XxdOlmWGR0dJZ1OE4vFqFar3wc3Gg0ODw85PT1FlmVWVlaYn5/vsvH7/aytrREOh8nn8+zs7JDJZF7UwqcaiK7rJBIJcrkcoVCImZkZHA4HxWKxYyOEIBgMEgwGSafTJJNJXC4XU1NTXwdblkWlUkFVVer1OtlsFlmWX2QjhMAwDAzDwLbtnvv8KbAkSRiGQTQaZXFx8dXKFkLgdrupVCpsbW31rPBPgQ3DoN1uMzk5ydLSEo1Go9Op/ikej4dcLkcymewZ3IfB1WqVu7s7hBAkEgmOj4/f7MmSJGGaJuVyGbfb/XVwPp8nlUoxMDBAKBRiYmLi1WyFEDw/P1MsFqlUKt/LOJvNcnNzw/j4OMvLy4TD4Tft2+02JycnXF9f97yb3z3HlmXx8PBAKpVCURTm5uYIBALvBqrrOuVy+dXO9W7Gmqaxu7uLoijMzs4SiUQYGhrqAtTrdWq1Wmes6zr5fJ77+3u8Xi+Dg4OfA5dKJS4uLtjf38fn8xEOh3E6nRiGQbVapVarUSqVUFUVVVUplUqdb03TEEIwPT3N8PDwx8G6rrO3t0c8Hufp6YlAIICu68RiMQqFQqdbWZaFaZqYptk1tm2bvr4+/H7/+1X9V/nncjmurq44Pz9HURQkSaJUKnF5eYmmaWiaRr1eR5IkhBCd998fy7JwOp2MjY29uEh6gguFAkdHR+zv76PrOh6PBwBFUXh8fESSJCRJor+//61dwrZtZFlmZGQEr9f7Qi/+/4X5z4P/AM+UzOls2I/aAAAAAElFTkSuQmCC"
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image13" />
+    </pattern>
+    <pattern
+       id="pattern14"
+       x="308"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADS0lEQVRIie2XW0s6WxTAf3tGJU0yu4AFlhEFiT4FvfQS9FZQH6Av1OcR6kklgi4Q3SACKzOT0HDGMS8zeZmZ83A4cjzZ/f8/weEsGGbPXmvxW2vvtddmhG3bKX5ApJ+A/ijY8VVHVVXZ3NwknU4jyzJCCGzbBkAIwcbGBuvr678ebNs2rVaLaDTKwsIC7XYbh8NBuVwmHo/TarXe9P8WuNlsEolEWF1d7cxXq1UODg5oNptv+n9rj4UQtNvtrrlms9lZ8t8G7iWWZXWC+lfBH5UvgyXpT9fXlvW3ZazrOqZp9tTZtk2j0fj14HK5zO3tLbZt43Q6u3RCCFwuF6qqkslkXhTft8BnZ2dsb2/jcrnw+XxdOlmWGR0dJZ1OE4vFqFar3wc3Gg0ODw85PT1FlmVWVlaYn5/vsvH7/aytrREOh8nn8+zs7JDJZF7UwqcaiK7rJBIJcrkcoVCImZkZHA4HxWKxYyOEIBgMEgwGSafTJJNJXC4XU1NTXwdblkWlUkFVVer1OtlsFlmWX2QjhMAwDAzDwLbtnvv8KbAkSRiGQTQaZXFx8dXKFkLgdrupVCpsbW31rPBPgQ3DoN1uMzk5ydLSEo1Go9Op/ikej4dcLkcymewZ3IfB1WqVu7s7hBAkEgmOj4/f7MmSJGGaJuVyGbfb/XVwPp8nlUoxMDBAKBRiYmLi1WyFEDw/P1MsFqlUKt/LOJvNcnNzw/j4OMvLy4TD4Tft2+02JycnXF9f97yb3z3HlmXx8PBAKpVCURTm5uYIBALvBqrrOuVy+dXO9W7Gmqaxu7uLoijMzs4SiUQYGhrqAtTrdWq1Wmes6zr5fJ77+3u8Xi+Dg4OfA5dKJS4uLtjf38fn8xEOh3E6nRiGQbVapVarUSqVUFUVVVUplUqdb03TEEIwPT3N8PDwx8G6rrO3t0c8Hufp6YlAIICu68RiMQqFQqdbWZaFaZqYptk1tm2bvr4+/H7/+1X9V/nncjmurq44Pz9HURQkSaJUKnF5eYmmaWiaRr1eR5IkhBCd998fy7JwOp2MjY29uEh6gguFAkdHR+zv76PrOh6PBwBFUXh8fESSJCRJor+//61dwrZtZFlmZGQEr9f7Qi/+/4X5z4P/AM+UzOls2I/aAAAAAElFTkSuQmCC"
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image14" />
+    </pattern>
+    <pattern
+       id="fillPattern37_"
+       x="278"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADz0lEQVRIie2W2yt0fRTHP3uzZ0Yjg3EsUuRQSBiHUkQSTYkSN1Lu5ZJ/wqVbJaVELiQkRY6jyORYRBJhMOM0DjN79uznQqbmwTx4n/d9euv53u31a6/Pb63fWqslqKo6wx+Q+Cegf8FfkizL9PT0cHFx8a3/g78LVhQFq9WK0+mkurqa9PT0/was1WqRZZm1tTW8Xi9Op5Ps7Gw0Gs3vB3s8Hu7v73l8fOT29hZZlsnJyeHq6orR0VGenp7Iz88nJCTk94IPDg5YWlpic3MTh8NBUFAQLS0t2Gw2BgYGGBgY4OHhgdLS0l/Chc8MEFVVGRwcZG5uDo1GQ25uLhkZGaSkpBAREYEoihwfHzM1NYXFYqGgoICGhgYiIyP/WcR9fX1YLBYyMzOprKwkOTkZQRA4OztDr9ej0+kIDw9Hp9Nxf3/Pzc0NiqIE9BkQ7Ha72djYYH5+HpPJhNlsRq/Xs7i4yM7ODnd3d7S3t2O325mYmGB7e5uioiIqKysxGAzfBzscDqanpzEajdTU1CBJEpOTk1itVkRR5PDwEIvFwunpKevr6yQmJmI2m0lLSwsIhQADRFVVTk5O2N3dpaqqCkmSGB8fZ35+nqSkJJqbmzEYDAwPD7OxsUFOTg5NTU2fggaM+Orqit3dXSRJorCwkOHhYVZWVjCZTDQ3NyOKIsHBwTw/P1NXV0dFRcWnezgg+Pr6GrvdTlZWFjabja2tLfLy8qitrUWr1eJyuYiMjKSxsZGsrCxE8WvT90OwLMvc3d2RmpqK1WolLCwMk8lEdHQ08DK5Ojo6CAsL+9C5qqoIgvDumV8f9/b28vT0BIDNZkNRFMxmM5OTk5yfn5OQkEBUVBSyLCMIAhqNBo/Hg9fr9QNptVrq6+sxGo0fXsovP6Ojo9ze3iJJEi6XC1mWiYmJ4fz8nLi4OAwGAx6PxxeF2+32QQFEUcTj8TAxMcH19fWHUPgp1TqdjtbWVmJjY5mdnaW/v5/9/X2cTielpaWUl5cHdPaqzc1Nv29FUTg6OiI5Ofn9iAFfql8rdmhoiJCQEERR9J0F0vPz8xvb3t4enZ2dfrY3xRUc/GIqKSmhuLjYZw8KCvolFECSJODlvQGWl5fp7u5Gr9d/DHa73XR1daHVahEEwa9FvF6v33u+J0EQUBQFu91OVFQUCwsL9Pf3v1vdfuC2trY3BfMVqaqKKIoYjUZmZmZYWFjA4XCg1+t9GXgXXFZW9i3gz1pdXWVsbIzLy0tCQ0PfrY1vrz4fyeVyMTIyQnx8PElJSW8ifdWnFoF/Q/+/vfov+Kv6AZJrokpTXAlnAAAAAElFTkSuQmCC"
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image15" />
+    </pattern>
+    <pattern
+       id="pattern16"
+       x="278"
+       y="94.5"
+       width="30"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <image
+         xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADz0lEQVRIie2W2yt0fRTHP3uzZ0Yjg3EsUuRQSBiHUkQSTYkSN1Lu5ZJ/wqVbJaVELiQkRY6jyORYRBJhMOM0DjN79uznQqbmwTx4n/d9euv53u31a6/Pb63fWqslqKo6wx+Q+Cegf8FfkizL9PT0cHFx8a3/g78LVhQFq9WK0+mkurqa9PT0/was1WqRZZm1tTW8Xi9Op5Ps7Gw0Gs3vB3s8Hu7v73l8fOT29hZZlsnJyeHq6orR0VGenp7Iz88nJCTk94IPDg5YWlpic3MTh8NBUFAQLS0t2Gw2BgYGGBgY4OHhgdLS0l/Chc8MEFVVGRwcZG5uDo1GQ25uLhkZGaSkpBAREYEoihwfHzM1NYXFYqGgoICGhgYiIyP/WcR9fX1YLBYyMzOprKwkOTkZQRA4OztDr9ej0+kIDw9Hp9Nxf3/Pzc0NiqIE9BkQ7Ha72djYYH5+HpPJhNlsRq/Xs7i4yM7ODnd3d7S3t2O325mYmGB7e5uioiIqKysxGAzfBzscDqanpzEajdTU1CBJEpOTk1itVkRR5PDwEIvFwunpKevr6yQmJmI2m0lLSwsIhQADRFVVTk5O2N3dpaqqCkmSGB8fZ35+nqSkJJqbmzEYDAwPD7OxsUFOTg5NTU2fggaM+Orqit3dXSRJorCwkOHhYVZWVjCZTDQ3NyOKIsHBwTw/P1NXV0dFRcWnezgg+Pr6GrvdTlZWFjabja2tLfLy8qitrUWr1eJyuYiMjKSxsZGsrCxE8WvT90OwLMvc3d2RmpqK1WolLCwMk8lEdHQ08DK5Ojo6CAsL+9C5qqoIgvDumV8f9/b28vT0BIDNZkNRFMxmM5OTk5yfn5OQkEBUVBSyLCMIAhqNBo/Hg9fr9QNptVrq6+sxGo0fXsovP6Ojo9ze3iJJEi6XC1mWiYmJ4fz8nLi4OAwGAx6PxxeF2+32QQFEUcTj8TAxMcH19fWHUPgp1TqdjtbWVmJjY5mdnaW/v5/9/X2cTielpaWUl5cHdPaqzc1Nv29FUTg6OiI5Ofn9iAFfql8rdmhoiJCQEERR9J0F0vPz8xvb3t4enZ2dfrY3xRUc/GIqKSmhuLjYZw8KCvolFECSJODlvQGWl5fp7u5Gr9d/DHa73XR1daHVahEEwa9FvF6v33u+J0EQUBQFu91OVFQUCwsL9Pf3v1vdfuC2trY3BfMVqaqKKIoYjUZmZmZYWFjA4XCg1+t9GXgXXFZW9i3gz1pdXWVsbIzLy0tCQ0PfrY1vrz4fyeVyMTIyQnx8PElJSW8ifdWnFoF/Q/+/vfov+Kv6AZJrokpTXAlnAAAAAElFTkSuQmCC"
+         x="0"
+         y="0"
+         width="30"
+         height="31"
+         id="image16" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="linearGradient6"
+       x1="158.16393"
+       y1="22.878046"
+       x2="186.23909"
+       y2="22.878046"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.6853518,0,0,0.238117,-556.33953,-150.42785)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,13.53282,58.832039)"
+       font-family="Arial"
+       font-size="18px"
+       font-weight="400"
+       font-style="normal"
+       id="g177">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0.28125"
+         font-family="Arial"
+         font-size="18px"
+         font-weight="400"
+         font-style="normal"
+         id="text176">10</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,17.0606,57.244537)"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="400"
+       font-style="normal"
+       id="g178-3">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="-0.328125"
+         font-family="Arial"
+         font-size="14px"
+         font-weight="400"
+         font-style="normal"
+         id="text177">2</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,43.354583,58.968056)"
+       font-family="Arial"
+       font-size="18px"
+       font-weight="400"
+       font-style="normal"
+       id="g179-9">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0.28125"
+         font-family="Arial"
+         font-size="18px"
+         font-weight="400"
+         font-style="normal"
+         id="text178">10</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,46.882363,57.380554)"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="400"
+       font-style="normal"
+       id="g180-9">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="-0.328125"
+         font-family="Arial"
+         font-size="14px"
+         font-weight="400"
+         font-style="normal"
+         id="text179">3</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,102.63991,169.14609)"
+       font-family="Arial"
+       font-size="19px"
+       font-weight="400"
+       font-style="normal"
+       id="g181-7">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="-14.680408"
+         y="-0.86110055"
+         font-family="Arial"
+         font-size="19px"
+         font-weight="400"
+         font-style="normal"
+         id="text180">Trials (N)</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,34.842772,169.03542)"
+       font-family="Arial"
+       font-size="19px"
+       font-weight="400"
+       font-style="normal"
+       id="g181-7-5">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="-14.680408"
+         y="-0.86110055"
+         font-family="Arial"
+         font-size="19px"
+         font-weight="400"
+         font-style="normal"
+         id="text180-2">Trials (N)</text>
+    </g>
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,383 488,383 "
+       id="polyline9"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="169.285,383 169.285,379.49 "
+       id="polyline10"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="335.856,383 335.856,379.49 "
+       id="polyline11"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="143.483,383 143.483,381.245 "
+       id="polyline12"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="153.142,383 153.142,381.245 "
+       id="polyline13"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="161.663,383 161.663,381.245 "
+       id="polyline14"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="219.428,383 219.428,381.245 "
+       id="polyline15"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="248.759,383 248.759,381.245 "
+       id="polyline16"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="269.57,383 269.57,381.245 "
+       id="polyline17"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="285.713,383 285.713,381.245 "
+       id="polyline18"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="298.902,383 298.902,381.245 "
+       id="polyline19"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="310.054,383 310.054,381.245 "
+       id="polyline20"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="319.713,383 319.713,381.245 "
+       id="polyline21"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="328.234,383 328.234,381.245 "
+       id="polyline22"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="385.999,383 385.999,381.245 "
+       id="polyline23"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="415.33,383 415.33,381.245 "
+       id="polyline24"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="436.141,383 436.141,381.245 "
+       id="polyline25"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="452.284,383 452.284,381.245 "
+       id="polyline26"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="465.473,383 465.473,381.245 "
+       id="polyline27"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="476.625,383 476.625,381.245 "
+       id="polyline28"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="486.284,383 486.284,381.245 "
+       id="polyline29"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,383 137,126 "
+       id="polyline33"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,349.926 140.51,349.926 "
+       id="polyline34"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,254.5 140.51,254.5 "
+       id="polyline36"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,159.074 140.51,159.074 "
+       id="polyline38"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,289.951 187.143,279.677 237.286,264.306 287.429,256.897 337.571,252.918 387.714,254.362 437.857,254.811 488,254.567 "
+       id="polyline45"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#fee391;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,310.498 187.143,285.98 237.286,266.897 287.429,256.023 337.571,254.885 387.714,254.228 437.857,254.409 488,254.438 "
+       id="polyline46"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#feda7e;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,271.924 187.143,274.708 237.286,264.356 287.429,251.915 337.571,254.672 387.714,254.222 437.857,254.559 488,254.733 "
+       id="polyline47"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#fed16c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,261.554 187.143,275.484 237.286,261.372 287.429,254.602 337.571,254.891 387.714,253.487 437.857,253.973 488,254.094 "
+       id="polyline48"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#fec858;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,284.837 187.143,280.045 237.286,253.649 287.429,254.847 337.571,251.468 387.714,249.964 437.857,251.493 488,251.316 "
+       id="polyline49"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#febe49;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,250.236 187.143,289.37 237.286,262.698 287.429,254.822 337.571,246.106 387.714,252.304 437.857,254.097 488,255.194 "
+       id="polyline50"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#feb23f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,308.085 187.143,285.851 237.286,260.356 287.429,257.846 337.571,258.507 387.714,253.868 437.857,254.546 488,254.481 "
+       id="polyline51"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#fea534;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,303.661 187.143,276.408 237.286,256.055 287.429,260.673 337.571,255.931 387.714,257.859 437.857,254.873 488,255.188 "
+       id="polyline52"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#fe9929;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,293.291 187.143,281.355 237.286,246.5 287.429,257.21 337.571,257.239 387.714,258.903 437.857,254.864 488,254.04 "
+       id="polyline53"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#f38821;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,339.555 187.143,264.035 237.286,264.077 287.429,253.244 337.571,256.936 387.714,255.713 437.857,253.991 488,256.014 "
+       id="polyline54"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#e9781a;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,335.324 187.143,294.131 237.286,268.16 287.429,247 337.571,255.349 387.714,252.987 437.857,255.533 488,254.391 "
+       id="polyline55"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#de6712;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,329.701 187.143,278.348 237.286,270.273 287.429,250.336 337.571,252.357 387.714,253.886 437.857,253.376 488,253.046 "
+       id="polyline56"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#d0590d;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,383 187.143,306.325 237.286,257.595 287.429,259.495 337.571,264.186 387.714,248.125 437.857,258.394 488,256.04 "
+       id="polyline57"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#bd4c0a;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,369.259 187.143,299.072 237.286,270.161 287.429,265.421 337.571,252.799 387.714,255.156 437.857,252.809 488,253.394 "
+       id="polyline58"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#ab4007;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,365.816 187.143,316.197 237.286,266.378 287.429,261.463 337.571,252.386 387.714,249.33 437.857,252.893 488,252.278 "
+       id="polyline59"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#993404;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,254.5 488,254.5 "
+       id="polyline60"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:0.701961;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:10, 6;stroke-dashoffset:0;stroke-opacity:0.701961" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,383 950,383 "
+       id="polyline62"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="631.285,383 631.285,379.49 "
+       id="polyline63"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="797.856,383 797.856,379.49 "
+       id="polyline64"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="605.483,383 605.483,381.245 "
+       id="polyline65"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="615.142,383 615.142,381.245 "
+       id="polyline66"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="623.663,383 623.663,381.245 "
+       id="polyline67"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="681.428,383 681.428,381.245 "
+       id="polyline68"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="710.759,383 710.759,381.245 "
+       id="polyline69"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="731.57,383 731.57,381.245 "
+       id="polyline70"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="747.713,383 747.713,381.245 "
+       id="polyline71"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="760.902,383 760.902,381.245 "
+       id="polyline72"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="772.054,383 772.054,381.245 "
+       id="polyline73"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="781.713,383 781.713,381.245 "
+       id="polyline74"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="790.234,383 790.234,381.245 "
+       id="polyline75"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="847.999,383 847.999,381.245 "
+       id="polyline76"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="877.33,383 877.33,381.245 "
+       id="polyline77"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="898.141,383 898.141,381.245 "
+       id="polyline78"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="914.284,383 914.284,381.245 "
+       id="polyline79"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="927.473,383 927.473,381.245 "
+       id="polyline80"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="938.625,383 938.625,381.245 "
+       id="polyline81"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="948.284,383 948.284,381.245 "
+       id="polyline82"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,383 599,126 "
+       id="polyline86"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,349.926 602.51,349.926 "
+       id="polyline87"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,254.5 602.51,254.5 "
+       id="polyline89"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,159.074 602.51,159.074 "
+       id="polyline91"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,295.688 649.143,281.705 699.286,264.44 749.429,256.884 799.571,252.917 849.714,254.361 899.857,254.812 950,254.628 "
+       id="polyline97"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#fee391;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,316.407 649.143,288.61 699.286,267.15 749.429,256.047 799.571,254.884 849.714,254.228 899.857,254.41 950,254.474 "
+       id="polyline98"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#feda7e;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,275.6 649.143,276.478 699.286,264.597 749.429,251.955 799.571,254.672 849.714,254.22 899.857,254.559 950,254.783 "
+       id="polyline99"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#fed16c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,262.132 649.143,277.181 699.286,261.478 749.429,254.607 799.571,254.891 849.714,253.486 899.857,253.973 950,254.176 "
+       id="polyline100"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#fec858;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,284.012 649.143,281.658 699.286,253.985 749.429,254.87 799.571,251.467 849.714,249.964 899.857,251.493 950,251.286 "
+       id="polyline101"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#febe49;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,243.495 649.143,290.159 699.286,262.694 749.429,254.786 799.571,246.105 849.714,252.304 899.857,254.097 950,255.231 "
+       id="polyline102"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#feb23f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,300.083 649.143,286.101 699.286,260.611 749.429,257.851 799.571,258.507 849.714,253.867 899.857,254.546 950,254.482 "
+       id="polyline103"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#fea534;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,290.661 649.143,275.495 699.286,256.279 749.429,260.676 799.571,255.931 849.714,257.859 899.857,254.873 950,255.21 "
+       id="polyline104"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#fe9929;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,272.876 649.143,279.073 699.286,246.628 749.429,257.222 799.571,257.239 849.714,258.903 899.857,254.864 950,254.044 "
+       id="polyline105"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#f38821;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,316.09 649.143,259.662 699.286,264.072 749.429,253.245 799.571,256.936 849.714,255.713 899.857,253.991 950,256.018 "
+       id="polyline106"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#e9781a;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,304.094 649.143,288.215 699.286,267.913 749.429,246.972 799.571,255.347 849.714,252.987 899.857,255.532 950,254.383 "
+       id="polyline107"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#de6712;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,290.716 649.143,270.136 699.286,269.728 749.429,250.277 799.571,252.352 849.714,253.886 899.857,253.376 950,253.042 "
+       id="polyline108"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#d0590d;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,342.156 649.143,296.387 699.286,256.535 749.429,259.37 799.571,264.172 849.714,248.124 899.857,258.394 950,256.007 "
+       id="polyline109"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#bd4c0a;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,318.545 649.143,286.773 699.286,268.729 749.429,265.253 799.571,252.779 849.714,255.155 899.857,252.809 950,253.378 "
+       id="polyline110"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#ab4007;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,305.022 649.143,301.028 699.286,264.438 749.429,261.181 799.571,252.354 849.714,249.327 899.857,252.892 950,252.195 "
+       id="polyline111"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#993404;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,254.5 950,254.5 "
+       id="polyline112"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-13.144725)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:0.701961;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:10, 6;stroke-dashoffset:0;stroke-opacity:0.701961" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,741 488,741 "
+       id="polyline114"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="169.285,741 169.285,737.49 "
+       id="polyline115"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="335.856,741 335.856,737.49 "
+       id="polyline116"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="143.483,741 143.483,739.245 "
+       id="polyline117"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="153.142,741 153.142,739.245 "
+       id="polyline118"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="161.663,741 161.663,739.245 "
+       id="polyline119"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="219.428,741 219.428,739.245 "
+       id="polyline120"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="248.759,741 248.759,739.245 "
+       id="polyline121"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="269.57,741 269.57,739.245 "
+       id="polyline122"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="285.713,741 285.713,739.245 "
+       id="polyline123"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="298.902,741 298.902,739.245 "
+       id="polyline124"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="310.054,741 310.054,739.245 "
+       id="polyline125"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="319.713,741 319.713,739.245 "
+       id="polyline126"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="328.234,741 328.234,739.245 "
+       id="polyline127"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="385.999,741 385.999,739.245 "
+       id="polyline128"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="415.33,741 415.33,739.245 "
+       id="polyline129"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="436.141,741 436.141,739.245 "
+       id="polyline130"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="452.284,741 452.284,739.245 "
+       id="polyline131"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="465.473,741 465.473,739.245 "
+       id="polyline132"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="476.625,741 476.625,739.245 "
+       id="polyline133"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="486.284,741 486.284,739.245 "
+       id="polyline134"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,741 137,483 "
+       id="polyline138"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,707.797 140.51,707.797 "
+       id="polyline139"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,612 140.51,612 "
+       id="polyline141"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,516.203 140.51,516.203 "
+       id="polyline143"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,621.429 187.143,634.563 237.286,621.801 287.429,612.029 337.571,610.01 387.714,611.425 437.857,611.934 488,611.94 "
+       id="polyline150"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#e5f5e0;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,627.534 187.143,634.363 237.286,618.369 287.429,610.45 337.571,610.779 387.714,611.64 437.857,611.338 488,611.894 "
+       id="polyline151"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#d2edcd;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,607.591 187.143,633.081 237.286,616.371 287.429,605.769 337.571,610.778 387.714,611.262 437.857,611.658 488,612.167 "
+       id="polyline152"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#bfe5b9;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,597.167 187.143,619.742 237.286,614.537 287.429,609.01 337.571,610.196 387.714,612.148 437.857,611.499 488,612.094 "
+       id="polyline153"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#aadda4;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,621.64 187.143,631.399 237.286,614.767 287.429,612.793 337.571,609.978 387.714,610.013 437.857,610.482 488,610.762 "
+       id="polyline154"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#9ad696;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,601.88 187.143,628.812 237.286,616.782 287.429,612.874 337.571,608.973 387.714,611.352 437.857,611.442 488,611.981 "
+       id="polyline155"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#8ed08b;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,626.42 187.143,628.673 237.286,616.381 287.429,612.151 337.571,611.927 387.714,612.008 437.857,611.409 488,611.996 "
+       id="polyline156"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#81ca81;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,629.768 187.143,635.894 237.286,617.638 287.429,612.51 337.571,611.212 387.714,611.258 437.857,612.083 488,611.425 "
+       id="polyline157"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#73c476;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,642.863 187.143,639.493 237.286,613.711 287.429,614.495 337.571,611.271 387.714,611.381 437.857,611.41 488,611.916 "
+       id="polyline158"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#61ba6c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,659.347 187.143,629.203 237.286,609.786 287.429,613.203 337.571,610.743 387.714,611.869 437.857,611.218 488,612.572 "
+       id="polyline159"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#4eb163;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,670.308 187.143,660.05 237.286,617.218 287.429,612.68 337.571,612.631 387.714,610.082 437.857,611.838 488,612.252 "
+       id="polyline160"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#3ba859;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,675.578 187.143,650.905 237.286,623.688 287.429,612.347 337.571,612.353 387.714,612.906 437.857,611.365 488,611.91 "
+       id="polyline161"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#2a9c4f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,691.744 187.143,661.711 237.286,624.129 287.429,615.518 337.571,611.256 387.714,612.163 437.857,613.35 488,612.746 "
+       id="polyline162"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#1c8b43;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,722.924 187.143,656.369 237.286,627.307 287.429,615.304 337.571,612.631 387.714,611.496 437.857,612.176 488,611.794 "
+       id="polyline163"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#0e7c37;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,717.1 187.143,672.291 237.286,625.854 287.429,615.982 337.571,613.726 387.714,610.973 437.857,612.913 488,612.476 "
+       id="polyline164"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#006d2c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,612 488,612 "
+       id="polyline165"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:0.701961;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:10, 6;stroke-dashoffset:0;stroke-opacity:0.701961" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,741 950,741 "
+       id="polyline167"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="631.285,741 631.285,737.49 "
+       id="polyline168"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="797.856,741 797.856,737.49 "
+       id="polyline169"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="605.483,741 605.483,739.245 "
+       id="polyline170"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="615.142,741 615.142,739.245 "
+       id="polyline171"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="623.663,741 623.663,739.245 "
+       id="polyline172"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="681.428,741 681.428,739.245 "
+       id="polyline173"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="710.759,741 710.759,739.245 "
+       id="polyline174"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="731.57,741 731.57,739.245 "
+       id="polyline175"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="747.713,741 747.713,739.245 "
+       id="polyline176"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="760.902,741 760.902,739.245 "
+       id="polyline177"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="772.054,741 772.054,739.245 "
+       id="polyline178"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="781.713,741 781.713,739.245 "
+       id="polyline179"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="790.234,741 790.234,739.245 "
+       id="polyline180"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="847.999,741 847.999,739.245 "
+       id="polyline181"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="877.33,741 877.33,739.245 "
+       id="polyline182"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="898.141,741 898.141,739.245 "
+       id="polyline183"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="914.284,741 914.284,739.245 "
+       id="polyline184"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="927.473,741 927.473,739.245 "
+       id="polyline185"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="938.625,741 938.625,739.245 "
+       id="polyline186"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="948.284,741 948.284,739.245 "
+       id="polyline187"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,741 599,483 "
+       id="polyline191"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,707.797 602.51,707.797 "
+       id="polyline192"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,612 602.51,612 "
+       id="polyline194"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,516.203 602.51,516.203 "
+       id="polyline196"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,628.644 649.143,636.458 699.286,621.767 749.429,611.994 799.571,610.005 849.714,611.422 899.857,611.935 950,612.118 "
+       id="polyline202"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#e5f5e0;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,634.805 649.143,636.875 699.286,618.43 749.429,610.435 799.571,610.769 849.714,611.636 899.857,611.339 950,612.064 "
+       id="polyline203"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#d2edcd;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,612.11 649.143,634.911 699.286,616.339 749.429,605.749 799.571,610.768 849.714,611.256 899.857,611.659 950,612.352 "
+       id="polyline204"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#bfe5b9;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,597.864 649.143,621.33 699.286,614.388 749.429,608.934 799.571,610.186 849.714,612.144 899.857,611.5 950,612.276 "
+       id="polyline205"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#aadda4;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,620.658 649.143,632.983 699.286,614.86 749.429,612.743 799.571,609.971 849.714,610.01 899.857,610.483 950,610.865 "
+       id="polyline206"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#9ad696;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,594.073 649.143,629.619 699.286,616.581 749.429,612.776 799.571,608.967 849.714,611.35 899.857,611.443 950,612.121 "
+       id="polyline207"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#8ed08b;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,617.254 649.143,628.937 699.286,616.54 749.429,612.119 799.571,611.923 849.714,612.006 899.857,611.41 950,612.086 "
+       id="polyline208"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#81ca81;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,615.333 649.143,634.972 699.286,617.782 749.429,612.49 799.571,611.21 849.714,611.256 899.857,612.084 950,611.52 "
+       id="polyline209"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#73c476;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,621.412 649.143,637.214 699.286,613.827 749.429,614.497 799.571,611.271 849.714,611.381 899.857,611.411 950,611.98 "
+       id="polyline210"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#61ba6c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,635.1 649.143,624.622 699.286,609.781 749.429,613.204 799.571,610.744 849.714,611.868 899.857,611.219 950,612.619 "
+       id="polyline211"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#4eb163;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,639.802 649.143,654.34 699.286,616.96 749.429,612.655 799.571,612.631 849.714,610.082 899.857,611.838 950,612.249 "
+       id="polyline212"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#3ba859;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,638.832 649.143,642.731 699.286,623.147 749.429,612.289 799.571,612.349 849.714,612.907 899.857,611.365 950,611.905 "
+       id="polyline213"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#2a9c4f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,654.254 649.143,652.332 699.286,623.094 749.429,615.392 799.571,611.242 849.714,612.162 899.857,613.35 950,612.693 "
+       id="polyline214"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#1c8b43;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,677.533 649.143,644.496 699.286,625.955 749.429,615.134 799.571,612.61 849.714,611.495 899.857,612.175 950,611.735 "
+       id="polyline215"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#0e7c37;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,664.16 649.143,658.386 699.286,623.957 749.429,615.701 799.571,613.69 849.714,610.968 899.857,612.911 950,612.354 "
+       id="polyline216"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#006d2c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,612 950,612 "
+       id="polyline217"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-23.728065)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:0.701961;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:10, 6;stroke-dashoffset:0;stroke-opacity:0.701961" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,1098 488,1098 "
+       id="polyline219"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="169.285,1098 169.285,1094.49 "
+       id="polyline220"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="335.856,1098 335.856,1094.49 "
+       id="polyline221"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="143.483,1098 143.483,1096.24 "
+       id="polyline222"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="153.142,1098 153.142,1096.24 "
+       id="polyline223"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="161.663,1098 161.663,1096.24 "
+       id="polyline224"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="219.428,1098 219.428,1096.24 "
+       id="polyline225"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="248.759,1098 248.759,1096.24 "
+       id="polyline226"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="269.57,1098 269.57,1096.24 "
+       id="polyline227"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="285.713,1098 285.713,1096.24 "
+       id="polyline228"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="298.902,1098 298.902,1096.24 "
+       id="polyline229"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="310.054,1098 310.054,1096.24 "
+       id="polyline230"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="319.713,1098 319.713,1096.24 "
+       id="polyline231"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="328.234,1098 328.234,1096.24 "
+       id="polyline232"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="385.999,1098 385.999,1096.24 "
+       id="polyline233"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="415.33,1098 415.33,1096.24 "
+       id="polyline234"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="436.141,1098 436.141,1096.24 "
+       id="polyline235"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="452.284,1098 452.284,1096.24 "
+       id="polyline236"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="465.473,1098 465.473,1096.24 "
+       id="polyline237"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="476.625,1098 476.625,1096.24 "
+       id="polyline238"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="486.284,1098 486.284,1096.24 "
+       id="polyline239"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,1098 137,841 "
+       id="polyline244"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,1064.93 140.51,1064.93 "
+       id="polyline245"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,969.5 140.51,969.5 "
+       id="polyline247"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,874.074 140.51,874.074 "
+       id="polyline249"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,965.507 187.143,968.036 237.286,967.939 287.429,968.795 337.571,968.927 387.714,968.955 437.857,969.414 488,969.406 "
+       id="polyline256"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#c6dbef;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,968.8 187.143,964.475 237.286,967.86 287.429,968.428 337.571,968.59 387.714,968.547 437.857,969.467 488,969.226 "
+       id="polyline257"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#b8d5ea;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,958.021 187.143,959.473 237.286,965.664 287.429,967.313 337.571,968.45 387.714,969.263 437.857,969.362 488,969.276 "
+       id="polyline258"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#aacfe5;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,957.406 187.143,961.777 237.286,964.007 287.429,968.487 337.571,969.15 387.714,968.153 437.857,969.023 488,969.354 "
+       id="polyline259"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#9ac8e0;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,953.874 187.143,957.778 237.286,965.217 287.429,966.169 337.571,968.188 387.714,969.098 437.857,969.309 488,969.051 "
+       id="polyline260"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#88bedc;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,947.345 187.143,963.59 237.286,965.502 287.429,966.554 337.571,966.861 387.714,968.671 437.857,969.427 488,969.257 "
+       id="polyline261"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#76b4d8;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,952.039 187.143,964.651 237.286,969.02 287.429,968.032 337.571,969.074 387.714,968.533 437.857,969.349 488,969.452 "
+       id="polyline262"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#65aad4;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,952.701 187.143,961.04 237.286,963.375 287.429,967.485 337.571,969.176 387.714,968.997 437.857,969.252 488,969.86 "
+       id="polyline263"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#56a0ce;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,938.92 187.143,961.448 237.286,964.812 287.429,966.201 337.571,969.896 387.714,969.788 437.857,969.473 488,969.235 "
+       id="polyline264"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#4896c8;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,949.916 187.143,962.3 237.286,971.018 287.429,966.478 337.571,969.757 387.714,969.595 437.857,970.43 488,969.332 "
+       id="polyline265"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#3b8bc2;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,953.269 187.143,953.583 237.286,967.951 287.429,965.9 337.571,969.735 387.714,971.009 437.857,970.482 488,969.246 "
+       id="polyline266"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#2f7fbc;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,964.697 187.143,963.397 237.286,964.917 287.429,969.029 337.571,968.726 387.714,970.545 437.857,969.803 488,969.646 "
+       id="polyline267"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#2474b6;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,958.973 187.143,961.948 237.286,964.464 287.429,970.231 337.571,970.912 387.714,970.771 437.857,969.806 488,969.13 "
+       id="polyline268"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#1a64ab;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,962.157 187.143,960.52 237.286,968.186 287.429,969.85 337.571,969.013 387.714,969.872 437.857,969.733 488,969.13 "
+       id="polyline269"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#1155a0;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,954.461 187.143,962.534 237.286,970.604 287.429,970.321 337.571,969.905 387.714,969.336 437.857,969.442 488,969.156 "
+       id="polyline270"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#084594;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="137,969.5 488,969.5 "
+       id="polyline271"
+       transform="matrix(0.17638867,0,0,0.17638867,-13.055123,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:0.701961;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:10, 6;stroke-dashoffset:0;stroke-opacity:0.701961" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,1098 950,1098 "
+       id="polyline273"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="631.285,1098 631.285,1094.49 "
+       id="polyline274"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="797.856,1098 797.856,1094.49 "
+       id="polyline275"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="605.483,1098 605.483,1096.24 "
+       id="polyline276"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="615.142,1098 615.142,1096.24 "
+       id="polyline277"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="623.663,1098 623.663,1096.24 "
+       id="polyline278"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="681.428,1098 681.428,1096.24 "
+       id="polyline279"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="710.759,1098 710.759,1096.24 "
+       id="polyline280"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="731.57,1098 731.57,1096.24 "
+       id="polyline281"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="747.713,1098 747.713,1096.24 "
+       id="polyline282"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="760.902,1098 760.902,1096.24 "
+       id="polyline283"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="772.054,1098 772.054,1096.24 "
+       id="polyline284"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="781.713,1098 781.713,1096.24 "
+       id="polyline285"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="790.234,1098 790.234,1096.24 "
+       id="polyline286"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="847.999,1098 847.999,1096.24 "
+       id="polyline287"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="877.33,1098 877.33,1096.24 "
+       id="polyline288"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="898.141,1098 898.141,1096.24 "
+       id="polyline289"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="914.284,1098 914.284,1096.24 "
+       id="polyline290"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="927.473,1098 927.473,1096.24 "
+       id="polyline291"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="938.625,1098 938.625,1096.24 "
+       id="polyline292"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="948.284,1098 948.284,1096.24 "
+       id="polyline293"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,1098 599,841 "
+       id="polyline298"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,1064.93 602.51,1064.93 "
+       id="polyline299"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,969.5 602.51,969.5 "
+       id="polyline301"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,874.074 602.51,874.074 "
+       id="polyline303"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,965.37 649.143,967.872 699.286,967.845 749.429,968.769 799.571,968.923 849.714,968.952 899.857,969.415 950,969.522 "
+       id="polyline309"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#c6dbef;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,968.584 649.143,964.311 699.286,967.729 749.429,968.376 799.571,968.583 849.714,968.543 899.857,969.469 950,969.357 "
+       id="polyline310"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#b8d5ea;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,957.838 649.143,959.167 699.286,965.487 749.429,967.24 799.571,968.44 849.714,969.259 899.857,969.363 950,969.407 "
+       id="polyline311"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#aacfe5;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,957.385 649.143,961.577 699.286,963.755 749.429,968.414 799.571,969.141 849.714,968.149 899.857,969.024 950,969.491 "
+       id="polyline312"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#9ac8e0;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,953.925 649.143,957.558 699.286,964.956 749.429,966.096 799.571,968.181 849.714,969.095 899.857,969.31 950,969.178 "
+       id="polyline313"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#88bedc;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,947.762 649.143,963.374 699.286,965.254 749.429,966.496 799.571,966.856 849.714,968.669 899.857,969.428 950,969.38 "
+       id="polyline314"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#76b4d8;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,952.651 649.143,964.6 699.286,968.835 749.429,967.993 799.571,969.07 849.714,968.531 899.857,969.35 950,969.56 "
+       id="polyline315"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#65aad4;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,953.717 649.143,961.2 699.286,963.253 749.429,967.454 799.571,969.175 849.714,968.996 899.857,969.253 950,969.97 "
+       id="polyline316"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#56a0ce;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,940.7 649.143,961.809 699.286,964.761 749.429,966.185 799.571,969.896 849.714,969.787 899.857,969.473 950,969.333 "
+       id="polyline317"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#4896c8;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,951.872 649.143,962.934 699.286,971.019 749.429,966.476 799.571,969.759 849.714,969.595 899.857,970.431 950,969.413 "
+       id="polyline318"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#3b8bc2;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,955.738 649.143,954.284 699.286,968.004 749.429,965.911 799.571,969.739 849.714,971.009 899.857,970.482 950,969.302 "
+       id="polyline319"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#2f7fbc;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,968.162 649.143,964.322 699.286,965.013 749.429,969.053 799.571,968.731 849.714,970.545 899.857,969.803 950,969.682 "
+       id="polyline320"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#2474b6;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,962.433 649.143,963.011 699.286,964.626 749.429,970.26 799.571,970.917 849.714,970.772 899.857,969.807 950,969.152 "
+       id="polyline321"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#1a64ab;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,965.951 649.143,961.666 699.286,968.395 749.429,969.886 799.571,969.019 849.714,969.873 899.857,969.733 950,969.131 "
+       id="polyline322"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#1155a0;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,958.517 649.143,963.714 699.286,970.837 749.429,970.361 799.571,969.909 849.714,969.336 899.857,969.442 950,969.16 "
+       id="polyline323"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-rule:evenodd;stroke:#084594;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="599,969.5 950,969.5 "
+       id="polyline324"
+       transform="matrix(0.17638867,0,0,0.17638867,-28.930129,-33.782238)"
+       style="font-style:normal;font-weight:400;font-size:13px;font-family:'.AppleSystemUIFont';fill-opacity:0.701961;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:10, 6;stroke-dashoffset:0;stroke-opacity:0.701961" />
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="104.72444"
+       y="65.550201"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-1"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Synergy</text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="107.3599"
+       y="13.394835"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-5"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Joint</text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="101.21923"
+       y="117.62535"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-1-7"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Redundancy</text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="-99.286362"
+       y="150.92081"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-5-3"
+       transform="rotate(-90.18523)"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.176389"
+         id="tspan4">Information level [bits]</tspan></text>
+    <g
+       id="g4"
+       transform="translate(-2.2536131,0.54543786)">
+      <g
+         fill="#212121"
+         fill-opacity="1"
+         stroke="#212121"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="square"
+         stroke-linejoin="bevel"
+         transform="matrix(0.17638911,0,0,0.17638911,41.218112,12.386731)"
+         font-family="Arial"
+         font-size="19px"
+         font-weight="700"
+         font-style="normal"
+         id="g126">
+        <text
+           fill="#212121"
+           fill-opacity="1"
+           stroke="none"
+           xml:space="preserve"
+           x="0"
+           y="0.1875"
+           font-family="Arial"
+           font-size="19px"
+           font-weight="700"
+           font-style="normal"
+           id="text125">Joint</text>
+      </g>
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="38.582661"
+         y="63.357506"
+         font-family="Arial"
+         font-size="3.35139px"
+         font-weight="700"
+         font-style="normal"
+         id="text125-2"
+         style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Synergy</text>
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="35.077446"
+         y="117.50951"
+         font-family="Arial"
+         font-size="3.35139px"
+         font-weight="700"
+         font-style="normal"
+         id="text125-2-1-7-4"
+         style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Redundancy</text>
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="32.493946"
+         y="4.503911"
+         font-family="Arial"
+         font-size="3.35139px"
+         font-weight="700"
+         font-style="normal"
+         id="text125-2-1-7-4-2"
+         style="font-size:3.88056px;stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Equal Weighting</text>
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="96.287621"
+         y="4.6120872"
+         font-family="Arial"
+         font-size="3.35139px"
+         font-weight="700"
+         font-style="normal"
+         id="text125-2-1-7-4-2-1"
+         style="font-size:3.88056px;stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Optimal Weighting</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,79.982442,58.844394)"
+       font-family="Arial"
+       font-size="18px"
+       font-weight="400"
+       font-style="normal"
+       id="g177-8">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0.28125"
+         font-family="Arial"
+         font-size="18px"
+         font-weight="400"
+         font-style="normal"
+         id="text176-5">10</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,83.510204,57.256892)"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="400"
+       font-style="normal"
+       id="g178-3-4">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="-0.328125"
+         font-family="Arial"
+         font-size="14px"
+         font-weight="400"
+         font-style="normal"
+         id="text177-7">2</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,109.80414,58.980411)"
+       font-family="Arial"
+       font-size="18px"
+       font-weight="400"
+       font-style="normal"
+       id="g179-9-9">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0.28125"
+         font-family="Arial"
+         font-size="18px"
+         font-weight="400"
+         font-style="normal"
+         id="text178-6">10</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,113.33192,57.392909)"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="400"
+       font-style="normal"
+       id="g180-9-6">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="-0.328125"
+         font-family="Arial"
+         font-size="14px"
+         font-weight="400"
+         font-style="normal"
+         id="text179-6">3</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,12.784655,111.25579)"
+       font-family="Arial"
+       font-size="18px"
+       font-weight="400"
+       font-style="normal"
+       id="g177-7">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0.28125"
+         font-family="Arial"
+         font-size="18px"
+         font-weight="400"
+         font-style="normal"
+         id="text176-0">10</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,16.312435,109.66829)"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="400"
+       font-style="normal"
+       id="g178-3-40">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="-0.328125"
+         font-family="Arial"
+         font-size="14px"
+         font-weight="400"
+         font-style="normal"
+         id="text177-6">2</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,42.606418,111.39181)"
+       font-family="Arial"
+       font-size="18px"
+       font-weight="400"
+       font-style="normal"
+       id="g179-9-5">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0.28125"
+         font-family="Arial"
+         font-size="18px"
+         font-weight="400"
+         font-style="normal"
+         id="text178-3">10</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,46.134198,109.8043)"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="400"
+       font-style="normal"
+       id="g180-9-8">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="-0.328125"
+         font-family="Arial"
+         font-size="14px"
+         font-weight="400"
+         font-style="normal"
+         id="text179-5">3</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,79.234278,111.26814)"
+       font-family="Arial"
+       font-size="18px"
+       font-weight="400"
+       font-style="normal"
+       id="g177-8-1">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0.28125"
+         font-family="Arial"
+         font-size="18px"
+         font-weight="400"
+         font-style="normal"
+         id="text176-5-2">10</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,82.762037,109.68064)"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="400"
+       font-style="normal"
+       id="g178-3-4-4">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="-0.328125"
+         font-family="Arial"
+         font-size="14px"
+         font-weight="400"
+         font-style="normal"
+         id="text177-7-6">2</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,109.05597,111.40416)"
+       font-family="Arial"
+       font-size="18px"
+       font-weight="400"
+       font-style="normal"
+       id="g179-9-9-7">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0.28125"
+         font-family="Arial"
+         font-size="18px"
+         font-weight="400"
+         font-style="normal"
+         id="text178-6-5">10</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,112.58375,109.81666)"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="400"
+       font-style="normal"
+       id="g180-9-6-5">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="-0.328125"
+         font-family="Arial"
+         font-size="14px"
+         font-weight="400"
+         font-style="normal"
+         id="text179-6-0">3</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,13.873638,164.24778)"
+       font-family="Arial"
+       font-size="18px"
+       font-weight="400"
+       font-style="normal"
+       id="g177-9">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0.28125"
+         font-family="Arial"
+         font-size="18px"
+         font-weight="400"
+         font-style="normal"
+         id="text176-7">10</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,17.401418,162.66028)"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="400"
+       font-style="normal"
+       id="g178-3-5">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="-0.328125"
+         font-family="Arial"
+         font-size="14px"
+         font-weight="400"
+         font-style="normal"
+         id="text177-3">2</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,43.695401,164.3838)"
+       font-family="Arial"
+       font-size="18px"
+       font-weight="400"
+       font-style="normal"
+       id="g179-9-99">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0.28125"
+         font-family="Arial"
+         font-size="18px"
+         font-weight="400"
+         font-style="normal"
+         id="text178-4">10</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,47.223181,162.7963)"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="400"
+       font-style="normal"
+       id="g180-9-9">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="-0.328125"
+         font-family="Arial"
+         font-size="14px"
+         font-weight="400"
+         font-style="normal"
+         id="text179-1">3</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,80.323262,164.26014)"
+       font-family="Arial"
+       font-size="18px"
+       font-weight="400"
+       font-style="normal"
+       id="g177-8-5">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0.28125"
+         font-family="Arial"
+         font-size="18px"
+         font-weight="400"
+         font-style="normal"
+         id="text176-5-9">10</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,83.851021,162.67264)"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="400"
+       font-style="normal"
+       id="g178-3-4-8">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="-0.328125"
+         font-family="Arial"
+         font-size="14px"
+         font-weight="400"
+         font-style="normal"
+         id="text177-7-3">2</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,110.14496,164.39615)"
+       font-family="Arial"
+       font-size="18px"
+       font-weight="400"
+       font-style="normal"
+       id="g179-9-9-0">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0.28125"
+         font-family="Arial"
+         font-size="18px"
+         font-weight="400"
+         font-style="normal"
+         id="text178-6-9">10</text>
+    </g>
+    <g
+       fill="#212121"
+       fill-opacity="1"
+       stroke="#212121"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.17638911,0,0,0.17638911,113.67274,162.80865)"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="400"
+       font-style="normal"
+       id="g180-9-6-0">
+      <text
+         fill="#212121"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="-0.328125"
+         font-family="Arial"
+         font-size="14px"
+         font-weight="400"
+         font-style="normal"
+         id="text179-6-7">3</text>
+    </g>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="6.0058122"
+       y="15.697013"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-7"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3">0.1</tspan></text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="8.2266331"
+       y="32.563858"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-7-8"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3-2">0</tspan></text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="5.1916552"
+       y="49.628677"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-7-7"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3-1">-0.1</tspan></text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="-99.131744"
+       y="1.9874636"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-4-9"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="rotate(-90.777509)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan2-4">Residual Bias [bits]</tspan></text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="-45.241581"
+       y="3.1470671"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-4-9-7"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="rotate(-90.777509)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan2-4-8">Residual Bias [bits]</tspan></text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="5.7327356"
+       y="68.762306"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-7-9"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3-6">0.1</tspan></text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="7.6858726"
+       y="85.471024"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-7-8-5"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3-2-1">0</tspan></text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="4.6508923"
+       y="102.53587"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-7-7-3"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3-1-2">-0.1</tspan></text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="6.0448251"
+       y="121.53143"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-7-3"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3-8">0.1</tspan></text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="8.1075201"
+       y="137.76582"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-7-8-7"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3-2-0">0</tspan></text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="5.0725389"
+       y="154.83064"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-7-7-36"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3-1-9">-0.1</tspan></text>
+    <rect
+       style="fill:url(#linearGradient6);fill-rule:evenodd;stroke:#000000;stroke-width:0.140516;stroke-linejoin:round;stroke-miterlimit:3.8;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect5"
+       width="103.46687"
+       height="1.4544083"
+       x="26.550154"
+       y="-145.70741"
+       rx="0.37660074"
+       ry="0.0026506681"
+       transform="matrix(-1.848789e-4,0.99999998,-0.99901697,-0.04432939,0,0)" />
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="147.17903"
+       y="33.956104"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-7-2"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3-9">0.98</tspan></text>
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="147.16016"
+       y="137.51552"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-7-2-1"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3-9-6">0.01</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.246269, 0.738807;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 37.816165,159.87489 -0.0075,-39.83078"
+       id="path6"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.246269, 0.738807;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 37.816165,106.86124 -0.0075,-39.830777"
+       id="path6-9"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.246269, 0.738807;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 37.816165,54.143355 -0.0075,-39.83078"
+       id="path6-5"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.246269, 0.738807;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 103.54374,159.69806 -0.007,-39.83078"
+       id="path6-1"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.246269, 0.738807;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 103.54374,106.81659 -0.007,-39.830768"
+       id="path6-9-2"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.246269, 0.738807;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 103.54374,54.098714 -0.007,-39.83078"
+       id="path6-5-8"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       fill="#212121"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="-152.17719"
+       y="0.98223162"
+       font-family="Arial"
+       font-size="3.35139px"
+       font-weight="700"
+       font-style="normal"
+       id="text125-2-4-9-74"
+       style="stroke-width:0.176389;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="rotate(-90.777509)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan2-4-0">Residual Bias [bits]</tspan></text>
+  </g>
+</svg>

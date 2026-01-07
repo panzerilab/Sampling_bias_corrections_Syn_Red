@@ -1,0 +1,15 @@
+cvxpy==1.1.17
+h5py
+hdf5
+ipython==8.6.0
+jupyterlab==3.4.4
+matplotlib==3.5.3
+numpy
+pandas==1.4.3
+python
+scikit-learn==1.1.1
+scipy==1.7.3
+seaborn==0.12.0
+pip
+statannotations==0.4.2
+joblib>=1.2.0
