@@ -55,7 +55,7 @@ nRbins = [2:9];
 computeGroundTruth(nRbins, simul_case{1}, alpha, info_amount, false, true, redundancy_measure)
 runSimulation(nRbins, trial_categories, n_iter, simul_case{1}, alpha, info_amount, false, true, redundancy_measure);
 
-%% Simulation Fig S3, S7A
+%% Simulation Fig S3, S7A, S11
 simul_case = {'bit_of_all','uncorr_unique','unique_high_red','unique_high_syn'};
 trial_categories = [16,32,64,128,256,512,1024,2048];
 alpha_values = [1:15 20];
