@@ -11,6 +11,7 @@ function PlotFigure4(trial_categories, simul_case, info_amount, redundancy_measu
 %  - Correct rule-of-thumb vertical line:
 %      * Discrete:  N = 4*nRbins^3, nRbins=4 -> 256
 %      * Gaussian:  N = 4*3*d, d=20         -> 240
+%  - NEW: shared Y-limits across all panels (max needed across panels)
 
 load('adaptive_weight_matrix_allcases.mat', 'weight_matrix', 'info_levels_fine');
 
@@ -45,7 +46,7 @@ methodColors = containers.Map( ...
       [0.494 0.184 0.556], ...      % qe_shuff (purple)
       [0.494 0.184 0.556], ...      % merged (purple)
       [0.494 0.184 0.556], ...      % shuff-resamp (purple)
-      [0.60 0.60 0.60], ...         % weighted (gray)
+      [0.494 0.184 0.556], ...      % weighted (purple)
       [0.466 0.674 0.188], ...      % venkatesh (green)
       [0.466 0.674 0.188] } );      % Venkatesh (green)
 
@@ -158,6 +159,12 @@ else
     % Determine component mapping once (robust to format)
     compMap = gauss_component_map(size(PID_all,1));
 
+    % Predeclare GT vectors so they're available for y-limit precompute even if
+    % only some methods load successfully.
+    GT_joint_vec = [];
+    GT_syn_vec   = [];
+    GT_red_vec   = [];
+
     for bi = 1:numel(bias_types)
         try
             [PID_v, GT_v] = local_pick_gauss_trials( ...
@@ -183,6 +190,7 @@ else
             series(ser_ix).mean  = m;
             series(ser_ix).sem   = s;
 
+            % Keep the last loaded GT vectors (they are the same across methods)
             GT_joint_vec = GT_v(compMap.Joint,:);
             GT_syn_vec   = GT_v(compMap.Syn  ,:);
             GT_red_vec   = GT_v(compMap.Red  ,:);
@@ -198,6 +206,34 @@ end
 % ======================= PLOTTING ========================
 figure('Units','centimeters','Position',[1 1 16.5 6]);
 tiledlayout(1,3,'TileSpacing','compact','Padding','compact');
+
+% ---------- NEW: Precompute shared Y-limits across all 3 panels ----------
+yMin = +inf;
+yMax = -inf;
+
+for c0 = 1:3
+    for k0 = 1:numel(series)
+
+        if strcmpi(datatype,'discr')
+            gt0 = gt_scalar(c0);
+        else
+            gtmat0 = [GT_joint_vec; GT_syn_vec; GT_red_vec];
+            gt0 = gtmat0(c0,:);
+        end
+
+        m0 = series(k0).mean(:,c0) - gt0(:);
+        s0 = series(k0).sem(:,c0);
+
+        lo = min(m0(:) - s0(:));
+        hi = max(m0(:) + s0(:));
+
+        yMin = min(yMin, lo);
+        yMax = max(yMax, hi);
+    end
+end
+
+sharedYLim = [yMin, yMax];
+% -----------------------------------------------------------------------
 
 for c = 1:3
     nexttile; hold on;
@@ -233,6 +269,9 @@ for c = 1:3
 
     yline(0,'k-','LineWidth',lw);
     xline(thumbRule,':k','LineWidth',lw);
+
+    % NEW: enforce shared y-axis across panels
+    ylim(sharedYLim);
 
     title(comp_titles{c},'FontWeight','bold');
     xlabel('Trials (N)');
