@@ -8,7 +8,7 @@
 rng(0);
 clc;
 clear;
-addpath(genpath('/Volumes/Nicola/Data_HamePark'));
+% addpath(genpath('...')); Add Path to data
 load('subjects.mat', 'subj');
 if ~iscell(subj)
     subj = cellstr(subj);
@@ -92,7 +92,7 @@ save_path = fullfile(condition_save_dir, sprintf('PID3Source_%s_%s.mat', s, cond
 
 for p = 1:length(areas1)
     area_name = ['HCPMMP1_' areas1{p}];
-    pca_filename = fullfile('/Volumes/Nicola/Data_HamePark',s, sprintf('PCA_%s_%s_%s.mat', s, condition, area_name));
+    pca_filename = fullfile('',s, sprintf('PCA_%s_%s_%s.mat', s, condition, area_name)); % ADD PATH TO DATA
     if ~exist(pca_filename, 'file')
         fprintf('Missing file: %s\n', pca_filename);
         continue;
@@ -108,7 +108,7 @@ for p = 1:length(areas1)
 end
 for p = 1:length(areas2)
     area_name = ['HCPMMP1_' areas2{p}];
-    pca_filename = fullfile('/Volumes/Nicola/Data_HamePark',s, sprintf('PCA_%s_%s_%s.mat', s, condition, area_name));
+    pca_filename = fullfile('',s, sprintf('PCA_%s_%s_%s.mat', s, condition, area_name)); % ADD PATH TO DATA
     if ~exist(pca_filename, 'file')
         fprintf('Missing file: %s\n', pca_filename);
         continue;
@@ -125,7 +125,7 @@ end
 
 for p = 1:length(areas3)
     area_name = ['HCPMMP1_' areas3{p}];
-    pca_filename = fullfile('/Volumes/Nicola/Data_HamePark',s, sprintf('PCA_%s_%s_%s.mat', s, condition, area_name));
+    pca_filename = fullfile('',s, sprintf('PCA_%s_%s_%s.mat', s, condition, area_name));  % ADD PATH TO DATA
     if ~exist(pca_filename, 'file')
         fprintf('Missing file: %s\n', pca_filename);
         continue;
@@ -201,141 +201,3 @@ save(save_path, 'PID_plugin', 'PID_res', 'PID_shuff', 's', 'condition');
 fprintf('Saved: %s\n', save_path);
 end
 
-%%
-clc; close all; clear;
-load('subjects.mat', 'subj');
-plugin_all = nan(length(subj), 18, 77);
-resamp_all = nan(length(subj), 18, 77);
-shuff_all = nan(length(subj), 18, 77);
-for subjIdx = 1:length(subj)
-    path = fullfile(pwd, 'attn', sprintf('PID3Source_%s_attn.mat', subj{subjIdx}));
-    res = load(path);
-    plugin_all(subjIdx,:,:) = res.PID_plugin{1};
-    resamp_all(subjIdx,:,:) = res.PID_res{1};
-    shuff_all(subjIdx,:,:) = res.PID_shuff{1};
-end 
-
-% Calculate mean and SEM, ignoring any NaN values
-mean_plugin = squeeze(mean(plugin_all, 1, 'omitnan'));
-sem_plugin  = squeeze(std(plugin_all, [], 1, 'omitnan') ./ sqrt(sum(~isnan(plugin_all),1)));
-
-mean_resamp = squeeze(mean(resamp_all, 1, 'omitnan'));
-sem_resamp  = squeeze(std(resamp_all, [], 1, 'omitnan') ./ sqrt(sum(~isnan(resamp_all),1)));
-
-mean_shuff  = squeeze(mean(shuff_all, 1, 'omitnan'));
-sem_shuff   = squeeze(std(shuff_all, [], 1, 'omitnan') ./ sqrt(sum(~isnan(shuff_all),1)));
-
-% Calculate joint measures, ignoring any NaN values that might have resulted
-joint_mean_plugin = sum(mean_plugin(1:18,:), 1, 'omitnan');
-joint_sem_plugin  = sqrt(sum(sem_plugin(1:18,:).^2, 1, 'omitnan'));  % SEM of sum
-
-joint_mean_resamp = sum(mean_resamp(1:18,:), 1, 'omitnan');
-joint_sem_resamp  = sqrt(sum(sem_resamp(1:18,:).^2, 1, 'omitnan'));
-
-joint_mean_shuff  = sum(mean_shuff(1:18,:), 1, 'omitnan');
-joint_sem_shuff   = sqrt(sum(sem_shuff(1:18,:).^2, 1, 'omitnan'));
-
-% Extract synergy (syn) and redundancy (red) components
-syn_mean_plugin = mean_plugin(18,:);
-syn_sem_plugin  = sem_plugin(18,:);
-syn_mean_resamp = mean_resamp(18,:);
-syn_sem_resamp  = sem_resamp(18,:);
-syn_mean_shuff  = mean_shuff(18,:);
-syn_sem_shuff   = sem_shuff(18,:);
-
-red_mean_plugin = mean_plugin(8,:);
-red_sem_plugin  = sem_plugin(8,:);
-red_mean_resamp = mean_resamp(8,:);
-red_sem_resamp  = sem_resamp(8,:);
-red_mean_shuff  = mean_shuff(8,:);
-red_sem_shuff   = sem_shuff(8,:);
-
-
-fs_original = 200;  % original sampling rate (Hz)
-frames = 1:311;
-time_original = frames / fs_original;  % 1/200 s steps
-
-% Downsample to 1/50 s
-ds_factor = 4; % 200/50 = 4
-time  = time_original(1:ds_factor:end);
-time = time(1:77);
-
-
-% Colors
-c_plugin = [0 0.4470 0.7410];  % blue
-c_resamp = [0.8500 0.3250 0.0980]; % orange
-c_shuff  = [0.4660 0.6740 0.1880]; % green
-
-timesSEM =3;
-alphaVal = 0.4;
-figure;
-
-% Example: alpha value for shading
-alphaVal = 0.3;  % adjust for visibility
-
-% Subplot 1: Joint
-subplot(3,1,1); hold on;
-
-% Plugin
-Xfill = [time, fliplr(time)];
-Yfill = [joint_mean_plugin + timesSEM*joint_sem_plugin, fliplr(joint_mean_plugin - timesSEM*joint_sem_plugin)];
-fill(Xfill, Yfill, c_plugin, 'FaceAlpha', alphaVal, 'EdgeColor','none', 'HandleVisibility','off');
-plot(time, joint_mean_plugin, 'Color', c_plugin, 'LineWidth', 1.5);
-
-% Resamp
-Yfill = [joint_mean_resamp + timesSEM*joint_sem_resamp, fliplr(joint_mean_resamp - timesSEM*joint_sem_resamp)];
-fill(Xfill, Yfill, c_resamp, 'FaceAlpha', alphaVal, 'EdgeColor','none', 'HandleVisibility','off');
-plot(time, joint_mean_resamp, 'Color', c_resamp, 'LineWidth', 1.5);
-
-% Shuff
-Yfill = [joint_mean_shuff + timesSEM*joint_sem_shuff, fliplr(joint_mean_shuff - timesSEM*joint_sem_shuff)];
-fill(Xfill, Yfill, c_shuff, 'FaceAlpha', alphaVal, 'EdgeColor','none', 'HandleVisibility','off');
-plot(time, joint_mean_shuff, 'Color', c_shuff, 'LineWidth', 1.5);
-
-title('Joint'); xlabel('Time (s)'); ylabel('Signal');
-legend({'Plugin','Resamp','Shuff'});
-
-% Subplot 2: Syn
-subplot(3,1,2); hold on;
-
-% Plugin
-Yfill = [syn_mean_plugin + timesSEM*syn_sem_plugin, fliplr(syn_mean_plugin - timesSEM*syn_sem_plugin)];
-fill(Xfill, Yfill, c_plugin, 'FaceAlpha', alphaVal, 'EdgeColor','none', 'HandleVisibility','off');
-plot(time, syn_mean_plugin, 'Color', c_plugin, 'LineWidth', 1.5);
-
-% Resamp
-Yfill = [syn_mean_resamp + timesSEM*syn_sem_resamp, fliplr(syn_mean_resamp - timesSEM*syn_sem_resamp)];
-fill(Xfill, Yfill, c_resamp, 'FaceAlpha', alphaVal, 'EdgeColor','none', 'HandleVisibility','off');
-plot(time, syn_mean_resamp, 'Color', c_resamp, 'LineWidth', 1.5);
-
-% Shuff
-Yfill = [syn_mean_shuff + timesSEM*syn_sem_shuff, fliplr(syn_mean_shuff - timesSEM*syn_sem_shuff)];
-fill(Xfill, Yfill, c_shuff, 'FaceAlpha', alphaVal, 'EdgeColor','none', 'HandleVisibility','off');
-plot(time, syn_mean_shuff, 'Color', c_shuff, 'LineWidth', 1.5);
-
-title('Syn'); xlabel('Time (s)'); ylabel('Signal');
-
-% Subplot 3: Red
-subplot(3,1,3); hold on;
-
-% Plugin
-Yfill = [red_mean_plugin + timesSEM*red_sem_plugin, fliplr(red_mean_plugin - timesSEM*red_sem_plugin)];
-fill(Xfill, Yfill, c_plugin, 'FaceAlpha', alphaVal, 'EdgeColor','none', 'HandleVisibility','off');
-plot(time, red_mean_plugin, 'Color', c_plugin, 'LineWidth', 1.5);
-
-% Resamp
-Yfill = [red_mean_resamp + timesSEM*red_sem_resamp, fliplr(red_mean_resamp - timesSEM*red_sem_resamp)];
-fill(Xfill, Yfill, c_resamp, 'FaceAlpha', alphaVal, 'EdgeColor','none', 'HandleVisibility','off');
-plot(time, red_mean_resamp, 'Color', c_resamp, 'LineWidth', 1.5);
-
-% Shuff
-Yfill = [red_mean_shuff + timesSEM*red_sem_shuff, fliplr(red_mean_shuff - timesSEM*red_sem_shuff)];
-fill(Xfill, Yfill, c_shuff, 'FaceAlpha', alphaVal, 'EdgeColor','none', 'HandleVisibility','off');
-plot(time, red_mean_shuff, 'Color', c_shuff, 'LineWidth', 1.5);
-
-title('Red'); xlabel('Time (s)'); ylabel('Signal');
-
-%legend({'Plugin','Resamp','Shuff'});
-save_path = 'results_3SourcePID.png';
-
-exportgraphics(gcf, save_path, 'Resolution', 600);  % 300 dpi
