@@ -128,6 +128,15 @@ def run_task(ntrials, M, T, n_repetitions, alpha, bias_title, routine, case_type
 
 
 def main():
+    # These simulations run the necessary simulations for all figures in 
+    # the paper.
+    # The first block does the simulations for all figures except 
+    # the ones for dimension sweep until d=80, those are run after in the
+    # same script and saved with the distinction d80 at the end of the
+    # filename.
+    # If you only want the simulations for the main figures, only out 
+    # 'bit_of_all' in the list
+
     start_time = time.time()  # Record the start time
 
     # Parameters
