@@ -197,7 +197,7 @@ cfg.info_amount = 'high';
 cfg.save_path = 'Figures_mat/Figure_S6_high.svg';
 cfg.thumb_rule_x = 256;
 pid_plot_grid(cfg);
-%% TO BE UPDATED
+
 
 %% Figure S7
 PlotFigureS7('discr', 'Alphas', 1:15, 'ResultFolder','Broja', 'SavePrefix','Figures_mat/Figure_S7_discrete');
