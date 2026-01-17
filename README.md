@@ -12,7 +12,8 @@ This directory contains the code and data used for the analyses in our paper. Be
 - `Real_data_analyses/`: Raw data and scripts for real data preprocessing and analysis.
 - `Results/`: Stores all simulated results.
 - `Figures/`: Stores all generated figures.
-
+- `Functions/`: Helper functions, including implementations of our bias-correction algorithms. Python functions used in `Simulations_Gaussian.py` are included in `tools.py`.
+-   
 ## Setup Instructions
 
 
