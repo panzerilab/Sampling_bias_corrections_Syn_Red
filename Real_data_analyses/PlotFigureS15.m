@@ -18,7 +18,7 @@ customColors_info_PID = [
 
 chosenAtom = 'Syn';
 %% Prepare A1 data
-filename = ['../Results/Real_data_analysis/A1_PID_' chosenAtom '.mat'];
+filename = ['Results/Real_data_analysis/A1_PID.mat'];
 load(filename);
 
 plugin_all      = [];
@@ -108,7 +108,7 @@ semqeshuffSubA1 = [std(FullData_qeshuffSub_all(:,1))/sqrt(size(FullData_qeshuffS
                    std(FullData_qeshuffSub_all(:,2))/sqrt(size(FullData_qeshuffSub_all,1)), std(HalfData_qeshuffSub_all(:,2))/sqrt(size(HalfData_qeshuffSub_all,1))];
 
 %% Prepare CA1 data
-filename = ['../Results/Real_data_analysis/CA1_PID_' chosenAtom '.mat'];
+filename = ['Results/Real_data_analysis/CA1_PID.mat'];
 load(filename);
 
 plugin_all      = [];
@@ -197,13 +197,13 @@ semqeshuffSubCA1 = [std(FullData_qeshuffSub_all(:,1))/sqrt(size(FullData_qeshuff
 
 
 %% Prepare A1_monkey data
-filename = ['../Results/Real_data_analysis/KayserA1_PID_' chosenAtom '_half.mat'];
+filename = ['Results/Real_data_analysis/KayserA1_PID.mat'];
 load(filename);
 plugin_all      = [];
 qe_all          = [];
 qeshuffSub_all  = [];
 shuffSub_all    = [];
-for dataSet = 1:length(Results_plugin)
+for dataSet = 1:(length(Results_plugin)-2=
     if ~isempty(Results_plugin(dataSet).HalfData) 
         plugin_all     = [plugin_all    ; Results_plugin(dataSet).HalfData.Result];
         qe_all         = [qe_all        ; Results_qe(dataSet).HalfData.Result];
@@ -211,13 +211,12 @@ for dataSet = 1:length(Results_plugin)
         shuffSub_all   = [shuffSub_all  ; Results_shuffSub(dataSet).HalfData.Result];
     end
 end 
+
 HalfData_plugin_all     = squeeze(mean(plugin_all     ,2)); 
 HalfData_qe_all         = squeeze(mean(qe_all         ,2)); 
 HalfData_qeshuffSub_all = squeeze(mean(qeshuffSub_all ,2)); 
-HalfData_shuffSub_all   = squeeze(mean(shuffSub_all   ,2)); 
+HalfData_shuffSub_all   = squeeze(mean(shuffSub_all   ,2));
 
-filename = ['../Results/Real_data_analysis/KayserA1_PID_' chosenAtom '.mat'];
-load(filename);
 plugin_all      = [];
 qe_all          = [];
 qeshuffSub_all  = [];
@@ -311,7 +310,7 @@ plotPIDterms(meanshuffSubCA1, semshuffSubCA1, subplotIdx, 'shuffSub',0,maxV, fal
 subplotIdx = subplotIdx + 1;
 plotPIDterms(meanqeshuffSubCA1, semqeshuffSubCA1, subplotIdx, 'qe shuffSub',0,maxV, false)
 
-maxV = 0.1;
+maxV =0.1;
 minV = 0;
 subplotIdx = subplotIdx + 1;
 plotPIDterms(meanpluginA1_monkey, sempluginA1_monkey, subplotIdx, 'plugin', minV, maxV, false)

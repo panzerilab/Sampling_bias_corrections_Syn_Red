@@ -10,8 +10,13 @@
 
 clc, clear, close all
 load('Data/A1_dataset_monkey.mat')
+<<<<<<< HEAD
 load(['Data/selected_trials_windowSize_',num2str(delta),'.mat'])
 n_datasets = length(data_all_electrodes_all_sessions_all_noiselevels{1});
+=======
+n_datasets = length(data_all_electrodes_all_sessions_all_noiselevels{1});
+%names_datasets = dir(data_all_electrodes_all_sessions_all_noiselevels);
+>>>>>>> da11d9e (Updated code and figures)
 results_folder = fullfile('Results/Real_data_analysis');
 if ~isfolder(results_folder)
     mkdir(results_folder)
@@ -21,7 +26,7 @@ for idx_data = 1:n_datasets
     data_pooled_trials = [];
     for idx_noise_level = 1:4
         current_data = data_all_electrodes_all_sessions_all_noiselevels{idx_noise_level}{idx_data};
-        data_pooled_trials = cat(2, data_pooled_trials, current_data);  % If numeric, this concatenates row-wise
+        data_pooled_trials = cat(2, data_pooled_trials, current_data);  
     end
     data_pooled_trials_allsessions{idx_data} = data_pooled_trials;
 end
@@ -102,10 +107,10 @@ for idx_data = 1:n_datasets
         PID_v_shuffSub_all(pairi, :)    = [sum(shuffSub), shuffSub(1), shuffSub(2), sum(shuffSub(3:4))];
         PID_v_qeShuffSub_all(pairi, :)  = [sum(qeShuffSub), qeShuffSub(1), qeShuffSub(2), sum(qeShuffSub(3:4))];
     end
-    Results_plugin(ind).FullData.Result = PID_v_plugin_all;
-    Results_qe(ind).FullData.Result = PID_v_qe_all;
-    Results_shuffSub(ind).FullData.Result = PID_v_shuffSub_all;
-    Results_qeshuffSub(ind).FullData.Result = PID_v_qeShuffSub_all;
+    Results_plugin(idx_data).FullData.Result = PID_v_plugin_all;
+    Results_qe(idx_data).FullData.Result = PID_v_qe_all;
+    Results_shuffSub(idx_data).FullData.Result = PID_v_shuffSub_all;
+    Results_qeshuffSub(idx_data).FullData.Result = PID_v_qeShuffSub_all;
 
     % Half Data
     disp('Half Data');
@@ -123,8 +128,10 @@ for idx_data = 1:n_datasets
             cell1 = pairlist(pairi,1);
             cell2 = pairlist(pairi,2);
 
-            resp1 = R_iter(cell1,:);
-            resp2 = R_iter(cell2,:);
+            resp1 = data_unit1;
+            resp2 = data_unit2;
+            resp1(data_unit1 > 0) = 1;
+            resp2(data_unit2 > 0) = 1;
             PID_v_plugin_tmp   = PID({resp1,resp2,S_iter}, {'PID_atoms'}, opts);
             PID_v_qe_tmp       = PID({resp1,resp2,S_iter}, {'PID_atoms'}, opts_qe);
             PID_v_shuffSub_tmp = PID({resp1,resp2,S_iter}, {'PID_atoms'}, opts_shuffSub);
@@ -141,17 +148,18 @@ for idx_data = 1:n_datasets
             PID_v_qeShuffSub_all(pairi, iter, :) = [sum(qeShuffSub), qeShuffSub(1), qeShuffSub(2), sum(qeShuffSub(3:4))];
         end
     end
-    Results_plugin(ind).HalfData.Result = PID_v_plugin_all;
-    Results_qe(ind).HalfData.Result = PID_v_qe_all;
-    Results_shuffSub(ind).HalfData.Result = PID_v_shuffSub_all;
-    Results_qeshuffSub(ind).HalfData.Result = PID_v_qeShuffSub_all;
+    Results_plugin(idx_data).HalfData.Result = PID_v_plugin_all;
+    Results_qe(idx_data).HalfData.Result = PID_v_qe_all;
+    Results_shuffSub(idx_data).HalfData.Result = PID_v_shuffSub_all;
+    Results_qeshuffSub(idx_data).HalfData.Result = PID_v_qeShuffSub_all;
 end
 save(fullfile(results_folder,'KayserA1_PID.mat'), "Results_plugin", "Results_qe", "Results_shuffSub", "Results_qeshuffSub");
 
 %% Helper
 
 function [S_part, R_part] = split_trials(S, R_all)
-nTrials = length(S);
+nTrials = size(S,1);
+
 nHalf1 = floor(nTrials/2);
 nHalf2 = nTrials - nHalf1;
 
@@ -161,7 +169,7 @@ idx2 = [];
 
 for i = 1:length(classes)
     current_class = classes(i);
-    class_idx = find(S == current_class);
+    class_idx = f(S == current_class);
     class_idx = class_idx(randperm(length(class_idx)));
     nClass = length(class_idx);
     nClass1 = round(nClass/2);

@@ -14,22 +14,14 @@ customColors_info_PID = [
     0.5, 0.5, 0.5;           % Color for 'Unq'
 ];
 
-% Joint, Syn, Red, Unq
-chosenAtom = 'Red';
+
 %% ---------- Adaptive weighting helpers (QE ⟷ shuff-sub) ----------
-% Load once (file used in your first function)
 load('Functions/adaptive_weight_matrix_allcases.mat', 'weight_matrix', 'info_levels_fine');
-
-% Build a 1D "weight curve" vs. info fraction by averaging across the
-% trial-count axis of your 3D weight tensor. The first index (=3) matches
-% how you selected weights for Red in your first function.
-weight_curve_vs_info = squeeze(mean(weight_matrix(3,:,:), 2));  % [nInfoLevels x 1]
-
-% Simple accessor: map info fraction in [0,1] → weight w in [0,1]
+weight_curve_vs_info = squeeze(mean(weight_matrix(3,:,:), 2)); 
 get_weight = @(info_frac) interp1(info_levels_fine(:), weight_curve_vs_info(:), ...
                                   max(0,min(1,info_frac)), 'linear', 'extrap');
 %% Prepare A1 data
-filename = ['Results/Real_data_analysis/A1_PID_' chosenAtom '.mat'];
+filename = ['Results/Real_data_analysis/A1_PID.mat'];
 load(filename);
 
 plugin_all      = [];
@@ -99,7 +91,7 @@ semWeightedA1  = [std(weighted_all(:,3),'omitnan')/sqrt(size(weighted_all,1)), .
 
 
 %% Prepare CA1 data
-filename = ['Results/Real_data_analysis/CA1_PID_' chosenAtom '.mat'];
+filename = ['Results/Real_data_analysis/CA1_PID.mat'];
 load(filename);
 plugin_all      = [];
 qe_all          = [];
@@ -158,7 +150,7 @@ semWeightedCA1  = [std(weighted_all(:,3),'omitnan')/sqrt(size(weighted_all,1)), 
 
 
 %% Prepare A1_monkey data
-filename = ['Results/Real_data_analysis/KayserA1_PID_' chosenAtom '.mat'];
+filename = ['Results/Real_data_analysis/KayserA1_PID.mat'];
 load(filename);
 plugin_all      = [];
 qe_all          = [];
@@ -364,7 +356,7 @@ plotPIDterms(meanresample_shuff_gaussian, semresample_shuff_gaussian, subplotIdx
 hold on;
 add_pvalue(p_gaussian_resample_shuff, 0.75, 2.25, 0.1,  9);
 
-outDir = fullfile(fileparts(pwd), 'Figures_mat');   % ein Verzeichnis über pwd
+outDir = fullfile(pwd, 'Figures_mat');   % ein Verzeichnis über pwd
 set(gcf, 'Renderer', 'painters');
 if ~exist(outDir, 'dir')
     mkdir(outDir);

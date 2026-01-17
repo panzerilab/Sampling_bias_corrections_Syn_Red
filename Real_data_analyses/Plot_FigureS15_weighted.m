@@ -20,7 +20,7 @@ chosenAtom = 'Red';
 get_weight = @(f) min(max(f,0),1);  % linear clamp in [0,1]
 
 %% ======================== Prepare A1 data ========================
-filename = ['../Results/Real_data_analysis/A1_PID_' chosenAtom '.mat'];
+filename = ['Results/Real_data_analysis/A1_PID.mat'];
 load(filename);
 
 plugin_all=[]; qe_all=[]; qeshuffSub_all=[]; shuffSub_all=[];
@@ -109,7 +109,7 @@ semWeightedA1  = [ std(FullData_weighted_all_A1(:,1))/sqrt(size(FullData_weighte
 
 
 %% ======================== Prepare CA1 data ========================
-filename = ['../Results/Real_data_analysis/CA1_PID_' chosenAtom '.mat'];
+filename = ['Results/Real_data_analysis/CA1_PID.mat'];
 load(filename);
 
 plugin_all=[]; qe_all=[]; qeshuffSub_all=[]; shuffSub_all=[];
@@ -196,7 +196,7 @@ semWeightedCA1  = [ std(FullData_weighted_all_CA1(:,1))/sqrt(size(FullData_weigh
 
 
 %% ==================== Prepare A1_monkey data =====================
-filename = ['../Results/Real_data_analysis/KayserA1_PID_' chosenAtom '_half.mat'];
+filename = ['Results/Real_data_analysis/KayserA1_PID.mat'];
 load(filename);
 plugin_all=[]; qe_all=[]; qeshuffSub_all=[]; shuffSub_all=[];
 for dataSet = 1:length(Results_plugin)
@@ -212,7 +212,6 @@ HalfData_qe_all         = squeeze(mean(qe_all         ,2));
 HalfData_qeshuffSub_all = squeeze(mean(qeshuffSub_all ,2));
 HalfData_shuffSub_all   = squeeze(mean(shuffSub_all   ,2));
 
-filename = ['../Results/Real_data_analysis/KayserA1_PID_' chosenAtom '.mat'];
 load(filename);
 plugin_all=[]; qe_all=[]; qeshuffSub_all=[]; shuffSub_all=[];
 for dataSet = 1:length(Results_plugin)

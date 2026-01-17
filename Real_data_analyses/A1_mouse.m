@@ -138,7 +138,7 @@ for ind = 1:nSessions
         Results_qeshuffSub(ind).HalfData.Result = PID_v_qeShuffSub_all;
     end
 end
-save(fullfile(results_folder,'A1_PID.mat'), "Results_plugin", "Results_qe", "Results_shuffSub", "Results_qeshuffSub");
+save(fullfile(results_folder,'A1_mouse.mat'), "Results_plugin", "Results_qe", "Results_shuffSub", "Results_qeshuffSub");
 
 %% Helper
 
