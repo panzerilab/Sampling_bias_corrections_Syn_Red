@@ -1,4 +1,6 @@
 # README
+[![DOI](https://zenodo.org/badge/1129564236.svg)](https://doi.org/10.5281/zenodo.20085437)
+
 This directory contains the code and data used for the analyses in our paper. Below is a brief overview of the folder structure and key scripts:
 
 ## Folder Structure
